@@ -1,0 +1,5 @@
+0:Bolsonaro
+1:Dilma_Rousseff
+2:Donald_Trump
+2:Hillary_Clinton
+4:Theresa_May

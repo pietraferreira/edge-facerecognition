@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/Users/pietraferreira/HML_Book",
+  "password": false,
+  "pid": 36325,
+  "port": 8888,
+  "secure": false,
+  "token": "6cb96f8e78fadb1def45c2e87c59f1d17e096abcca963f24",
+  "url": "http://localhost:8888/"
+}

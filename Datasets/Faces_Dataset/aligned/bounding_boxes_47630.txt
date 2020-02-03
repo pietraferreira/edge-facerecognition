@@ -1,0 +1,1723 @@
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/122.JairBolsonaro_Getty_web.png 653 216 980 638
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/267.naom_5ccc153fdd737.png 845 60 1068 342
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/145.bolsonaro-gouvernement-020119.png 433 194 587 386
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/224._106894652_3d7c0e80-84d7-44ee-b0b7-a7cd6548344b.png 207 16 390 231
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/32.5568.png 98 13 210 147
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/227.Bolsonaro-entrevista-SBT-868x644.png 249 65 456 315
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/25.z-bolsonaro.png 307 44 496 280
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/78.2019-07-28_11_4820190728_Bolsonaro-amenaza-con-encarcelar-a-periodista-cr%C3%ADtico.png 401 0 675 293
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/250._105724874_hi052444873.png 317 74 433 215
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/210.bolsonaro_m.png 353 52 698 550
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/5.bolsonaro-1-1280x720.png 391 51 618 328
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/306.1136872586.png 446 108 544 217
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/16.Uma-histo%CC%81ria-muito-bem-contada-as-narrativas-de-Jair-Bolsonaro-via-Twitter-e-Youtube-1024x536.png 375 14 554 232
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/148.bolsonaro-abre.png 517 53 733 338
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/110.image.png 319 78 421 198
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/159.AP_JairBolsonaro.png 286 99 572 493
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/45.PHQKNDCAD4I6TERMMTLLPBALQI.png 284 98 596 498
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/196.070119RF_-Presidente-Jair-Bolsonaro-040-840x577.png 130 170 394 515
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/254.noti-1562391119.png 241 34 407 244
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/209.170px-Bolsonaro_em_mar%C3%A7o_de_1990_%28Acervo_Globo%29.png 32 34 134 147
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/88.pp-jair.png
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/1.brazil-election-results-jair-bolsonaro-president-tropical-trump-1037605.png 324 44 501 266
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/93.Bolsonaro-100days.png 318 10 432 138
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/61.15592585395cf065abac012_1559258539_3x2_md.png 345 50 563 315
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/302.tenor.png 59 24 244 247
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/84.3543.png 28 0 113 91
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/183.bolsonaro-deputado.png 159 36 342 265
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/48.c1_3275495.png 172 30 351 271
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/347.1560948146_966466_1560950101_noticia_normal.png 642 88 814 303
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/237.maxresdefault.png 601 82 736 250
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/298.brasil-politica-jair-bolsonaro-sergio-moro-20190522-0002.png 1053 152 1315 485
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/343.bolsonaro-1-825x509.png 340 52 570 343
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/129.jair-bolsonaro-brazil-26-04-2019.png 597 283 1221 1033
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/87.foto-oficial-bolsonaro.png 342 32 511 240
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/226.e482d6ba64f8ad46f79b0753daf7810f3efd660c-1.png 252 51 520 422
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/50.bolsonaro-dallas-speech.png 588 96 908 468
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/182.bolsonaro-e-suas-relacoes-com-a-italia-1538514402.png 858 193 1137 529
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/55.27ce03f617004e93b9cb9b042e94aa1a_18.png 494 74 660 274
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/184.maxresdefault.png 663 53 886 352
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/268.bolsonaro.png 409 153 643 420
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/81.RTX6T1G9.png 557 157 841 515
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/155.3500.png 82 15 191 148
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/279.bolsonaro-em-dallas.png 264 42 444 272
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/132.1000x-1.png 380 121 504 287
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/291._104092973_7cf8a1ad-dc3e-4240-a929-627e126b0b47.png 249 124 347 239
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/125.000_1BX36Z-e1546364337316.png 273 34 440 225
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/79.040119RF_-Presidente-Jair-Bolsonaro-012-840x540.png 218 99 396 359
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/181.46882570495-f215747c02-k-e1557874566338.png 292 41 502 342
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/160.2019-07-05T202148Z_1_LYNXNPEF641P8_RTROPTP_4_POLITICA-BOLSONARO-AFAGOS.png 155 73 299 239
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/271.Bolsonaro-Dallas-840x560.png 768 188 1081 653
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/31.20190725-jair-bolsonaro-rtr.png 374 229 591 505
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/33.lula-moro-bolsonaro.png 497 143 852 594
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/83.bolsonaro.celular.sergio.lima_.23.jul_.2019-868x644.png 375 78 615 365
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/57.bolsonaro-brazil.png 215 209 446 505
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/236.jair-bolsonaro-1.png 257 92 460 358
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/92._106599521_hi053566471-1.png 208 31 442 332
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/67.1000x-1.png 447 57 746 457
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/354.7-bo-768x462.png 320 80 410 181
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/221.bolsonaro-brasilia-450x254.png 220 87 308 188
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/108.32631_2_EL.png 163 35 257 138
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/287.brazilian_president_jair_bolsonaro_erase_lgbt_content_schools_-650x433.png 355 53 495 224
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/322.JLA-Jair-Bolsonaro-Election-Win.png 338 171 443 289
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/276.Jair-Bolsonaro-Michelle-Militares-Generais-32-1-868x644.png 404 86 600 334
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/41.7701c31325ec4030a97d0729414dff61_18.png 238 101 430 309
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/172.MEAKBJDND4I6TO7HDR4Y7OAFGY.png 458 115 809 553
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/342.d41586-018-07220-4_16232848.png 336 192 433 297
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/21.28ca313d64b7fce5ad17907403e84b5c587c5eb0.png 338 73 520 314
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/313.unnamed.png 997 93 1467 703
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/283.1.7067184.2673673498.png 297 0 444 143
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/109.190712--Jair-Bolsonaro_16be6be1deb_large.png 137 94 315 328
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/4.dbc60a2388472f742ad9264df43d495d83116d57.png 380 40 473 145
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/320.bolsonaro-social-christian.png 293 87 379 185
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/91.201449-004-A9C3E75F.png 32 26 192 214
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/139.1556676216517.png 31 113 139 245
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/229.csm_bolsonaro-agenciabrasil_3a53249013.png 187 15 353 218
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/94.400.png 81 3 199 142
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/307.Renan_Bolsonaro_na_Posse_Presidencial.png 164 107 368 351
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/120.190430175447-jair-bolsonaro-0430-exlarge-169.png 330 56 459 220
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/187.a_bolsonaro-brazil-10172018-1.png 313 88 462 270
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/133.jair-bolsonaro-racista-bweb-1080x608.png 386 35 627 324
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/289.4dd8704be8efe1fbefd20a80ff65a890.png 160 81 310 262
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/15.Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29.png 1063 454 1829 1474
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/54.47832828_303.png 144 60 361 326
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/335.mundo-bolsonaro-arlington-20190319-002.png 414 577 623 818
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/112.220px-Michelle_Bolsonaro_em_visita_a_Argentina_em_6_de_junho_de_2019.png 37 6 169 173
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/176.RTX6CDLO.png 200 10 346 187
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/348.Jair-Bolsonaro.png 416 47 662 343
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/99.jair-bolsonaro.png 296 97 490 340
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/329.eduardo-bolsonaro-2.png 348 31 518 240
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/317.bolsonaro-jn-dd_1.png 405 72 620 347
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/204.brazilian-president-jair-bolsonaro-acceptable-stock-679420.png 465 0 697 275
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/126.33894092.154709-628x353.png 205 0 355 157
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/135.20190408043826_1200_675_-_jair_bolsonaro.png 669 51 982 471
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/19.Marcelo-Bolsonaro.png 517 40 665 229
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/56.1559097802147.png 108 8 221 139
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/70.bad0so8we0lgz5pe8kjblwaiu.png 277 2 417 173
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/24.foto-oficial-Bolsonaro-1-1-774x644.png 245 22 548 432
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/14.456c260c50984399a081481d921f0fb5_18.png 332 25 501 231
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/166.11804464-high-e1532948952382.png 1183 172 1809 939
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/340.Jair-Bolsonaro_16108.png 333 137 511 350
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/175.46593420665_e105755e5d_o-628x353.png 217 0 352 152
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/114.17abr2019---presidente-da-republica-jair-bolsonaro-psl-durante-celebracao-de-pascoa-no-palacio-do-planalto-1555614182526_v2_900x506.png 340 47 536 297
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/216.AP_19168809048369.png 368 19 764 535
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/345.bolsonaro.png 394 149 523 317
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/293.27-05-2019-bolsonaro-abin-1558986367.png 576 124 769 383
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/214.bolsonaro-armas-1-300x175.png 149 0 249 115
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/64.img2-Aprovacao-de-Bolsonaro-se-estabiliza-em-22383.png 237 27 373 199
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/352.Bolsoanro.png 231 25 351 175
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/7.bolsonaro-salles-coletiva.png 273 208 394 335
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/266._106960577_hi053813539.png 371 138 500 293
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/40.20190805090812_36f60653-be36-4cdf-a602-354dda3ba5ea.png 455 46 668 343
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/258.1000x-1.png 124 11 358 304
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/201.j.bolsonaro.s.lima_.8.abr_.2019-1-2-868x644.png 319 203 527 463
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/238.Michele-Bolsonaro.png 495 69 770 449
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/248.agi20190425014.png 164 35 267 164
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/60.32771330968_70902bd6f7_z.png 240 26 401 229
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/116.Bolsonaro-destaca-potencial-incalculavel-da-Amazonia-300x200.png 69 63 146 153
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/270.bolsonaro_speech001.png 2084 314 2650 1243
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/232.800.png 298 192 467 413
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/219.bolsonaro_ceu.png 436 147 618 380
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/30.bolsonaro-2.png 196 19 339 200
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/334.2019-05-31T132816Z_1_LYNXNPEF4U1D2_RTROPTP_4_F1-RIO-BOLSONARO.png 307 249 664 730
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/95.Image-by-Pal%C3%A1cio-do-Planalto-700x394.png 132 18 222 151
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/36.5c484a6d2bdd7f52b8395f09-750-563.png 277 125 465 370
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/42.Bolsonaro-HamiltonMourao-Mourao-Armas-Municao-CAC-104-868x644.png 402 63 572 274
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/158.Bolsonaro-sorrindo-1-868x644.png 226 92 527 493
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/75.Presidente_Bolsonaro.png 381 79 829 641
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/294.Bolsonaro-and-Trump-600x386.png 377 55 465 155
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/106.845562-bolsonaro-afp-1.png 272 66 463 315
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/325.antcrz_abr_09041914123_0-6089105.png 226 162 444 446
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/288.45f07c9097adf72c4ce17b4b29e7e65db2f21ead.png 828 117 954 261
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/11.bolsonarooo.png 381 121 798 637
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/130.Jair-Bolsonaro-1024x683.png 324 108 543 369
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/281.Jair%20Flavio%20Bolsonaro%20cropped.png 41 55 281 348
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/134.csm_bolsonarosorriso_f80b13f652.png 428 23 632 289
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/169.Jair-Bolsonaro-4-kApC-U204100340441FvB-1024x683%40GP-Web-688x400.png 297 12 521 290
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/277.f4852fb5b9e9a48da297d39e39679f8d-bresil-le-president-bolsonaro-prend-la-defense-du-travail-des-enfants.png 519 0 801 350
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/167.11259926-3x2-340x227.png 88 19 199 148
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/239.xjair-bolsonaro-6-meses-governo.png 305 49 473 279
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/151.220px-Eduardo_Bolsonaro_em_abril_de_2019_%28cropped%29.png 43 0 197 193
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/195.bolsonaro-video-polemica-main-1234.png 144 19 337 251
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/3.x83928483_Brazils-President-Jair-Bolsonaro-reacts-during-a-news-conference-at-the-Planalto-Palace-in.png 192 16 631 497
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/35.bolsonarotop_0.png 295 48 524 327
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/197.PA-43364542.max-760x504.png 329 352 406 433
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/356.Bolsonaro-at-Yad-Vashem-04022019-resize.png 442 92 554 228
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/142.bolsonaro-e-araujo.png 354 56 459 175
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/100.bolsonaro%20bandeira.png 255 89 461 341
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/105.20190117T1159-23477-CNS-BRAZIL-FIREARMS.png 473 74 1217 1027
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/38.220px-Foto_oficial_de_Fl%C3%A1vio_Bolsonaro_%28v._AgSen%29.png 58 14 191 176
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/355.thumbnail-for-57032.png 206 41 455 352
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/89.18-bolsonaro.w700.h700.png 216 87 458 366
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/180.arton26095-.png 206 74 435 351
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/22.ricardo-galvao.png 334 203 525 437
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/213.Jair-Bolsonaro-presidente-da-Rep%C3%BAblica.png 331 205 476 377
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/124.0803-bolsonaro.png 315 87 551 353
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/245.jair-bolsonaro-aceno-liberalismo1-660x372.png 322 18 417 126
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/311.methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F82eed546-deb3-11e8-8bc6-571c458bfbb3.png 212 78 341 230
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/96.jair-bolsonaro-exercito-congresso-nacional-homenagem.png 606 131 977 577
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/353.jair-bolsonaro-brazil-president-cropped-social-features.png 470 86 1668 1353
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/192.x82873788_CI-Rio-de-Janeiro-RJ-26-05-2019Bolsonaro-na-Igreja-Batista-ATITUDEna-Barra-Na-foto.png 541 93 726 320
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/344.6b9656c9-f41a-4c76-af3d-1684c8004e30-trump_Brazil_1.png 86 17 175 120
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/243.Bolsonaro-diz-que-parte-da-Petrobras-pode-ser-privatizada-1.png 760 48 1030 393
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/47.brasil-jair-bolsonaro-01.png 861 437 1484 1216
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/46.bolsonaro.png 68 50 190 199
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/163.download_1.png 248 97 370 239
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/251.jairbolsonaro-ce264ef81bef75bdec61fd63d038ceeb-1200x600.png 543 11 875 406
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/242.bolsonaro-presidente-e1550449151617.png 453 109 820 582
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/164.c9lrq30dn6q0ufrmalmm0vjjc.png 271 30 422 231
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/217.brazil-economy-guedes-bolsonaro.png 397 122 616 373
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/117.190319_wnn_trump_bolsonaro_hpMain_16x9_992.png 388 48 568 274
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/228.220px-Bolsonaro_with_Israeli_PM_Benjamin_Netanyahu%2C_Jerusalem%2C_31_March_2019.png 113 0 178 72
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/223.bolsonaro-11.png 177 8 435 350
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/127.1552953142450.png 479 91 692 371
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/123.Jair-Bolsonaro-Juan-Guaido-Venezuela-1552923762.png 1570 615 2009 1267
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/39.jair-bolsonaro-time-100-2019-033-1.png 401 229 809 741
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/240.carlos%20bolsonaro%2C%20AFP.png 269 19 508 320
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/241.070119RF_-Presidente-Jair-Bolsonaro-039.png 637 237 889 554
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/170.bae1a3df88ee05ab99bf2e0a57adcdfdf5b292f7.png 268 43 451 264
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/230.wdol_abr_30041914966.png 438 97 679 411
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/336.Messianismo-Bolsonaro.png 298 89 503 337
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/332.gettyimages-829442762.png 304 33 535 325
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/309.bolsonaro-1-1-1.png 287 85 554 406
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/143._105299471_882b0576-fde6-4012-9342-77ef03dcf00d.png 422 128 571 307
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/29.presidente-da-republica-jair-bolsonaro-durante-reuniao-da-comissao-de-etica-publica-1564494532670_v2_900x506.png 353 82 633 443
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/264.190501140232-amazon-beme-exlarge-169.png 393 85 563 307
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/296.eduardo-bolsonaro.png 515 80 834 477
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/198.bolsonaro-agenciabrasil.png 466 21 678 297
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/131.bolsonaro-assina.png 351 104 588 388
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/26.x83927888_BSBAnapolis-GOBrasil01-08-2019Presidente-Jair-Bolsonaro-e-o-ministro-do-Meio-Am.png 120 190 300 406
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/222.jair%20bolsonaro.png 231 27 387 215
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/49.bolso-m.png 443 46 657 321
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/312.hqdefault.png 194 25 330 188
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/2.5472.png 101 38 201 153
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/173.edit_mcmgo_abr_2211187496.png 259 85 614 503
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/140.GettyImages-1066240058-bolsonaro-1544132821-e1544132900526.png 596 155 903 549
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/177.190103-jair-bolsonaro-brazil-se-555p_22a560e6a2095cdcf0b6954e2880beb8.fit-760w.png 296 73 532 367
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/68.030118_bolsonaro_0.png 462 98 641 338
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/59.1548357200120.png 310 102 656 541
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/206.HGHEUWWZJAI6RA4EXTCUSL7PJE.png 675 148 1171 729
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/104.Bolsonaro_46535601975_dcd6e1477d_o-2-e1553870737372-wpv_1200x600_center_center.png 618 85 901 429
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/107.Brazil_Bolsonaro_Inauguration_54291.png 226 187 378 372
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/121.jair_bolsonaro_11062019_52726_-11524151.png 782 167 1131 609
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/119.49608553_303.png 322 42 557 329
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/20.20190805070832_61ce6835-1702-4768-8543-5fde409cc809.png 766 33 1004 361
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/301.gettyimages-1052731640.png 2423 3232 2529 3358
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/65.5224.png 71 10 215 180
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/34.ZMG344TLRMI6TO7HDR4Y7OAFGY.png 761 80 1070 487
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/300.Screenshot-2018-11-15-at-08.47.12-1.png 115 77 289 299
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/265.file-20190708-51273-z4lfyi.png 238 0 373 132
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/51.e63jwakcfta5bj64f3znh473r.png 261 31 433 246
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/218.712b848c-9a95-11e9-b82d-cb52a89d5dff_image_hires_102542.png 353 99 548 347
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/357.Jair-Bolsonaro-Washington-visit-1552924813-e1552930989299.png 236 158 342 309
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/282.jair-bolsonaro-1-e1564952478466.png 172 44 329 241
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/297.1539452431_856891_1539452765_noticia_normal.png 96 75 523 621
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/333.bolsonaro_top.png 344 130 452 261
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/53.15622566715d1e251fb8bec_1562256671_3x2_md.png 352 133 565 396
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/215.jair-bolsonaro-450x252.png 66 12 239 228
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/85.Jair-Bolsonaro.png 447 22 717 405
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/136.0_BLP__MDG-Blair7241JPG.png 227 20 324 136
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/280.2c4597c192d049a19f99d5753acc5971_18.png 450 45 587 225
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/174.Bolsonaro-inaugura-usina-solar-flutuante-na-Bahia-300x165.png 115 0 177 62
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/358.ckr78jau3xfyaygb9e716adwj.png 280 56 418 218
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/284.AP18362651078578.png 1180 259 1455 642
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/62.Bolsonaro-photo-by-Jose-Cruz-Agencia-Brasil.png 369 111 576 375
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/339.merlin_153384126_de5c359d-37b0-4494-9a81-a51bf3715302-articleLarge.png 368 13 474 136
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/43.15649549685d4751588f131_1564954968_3x2_xs.png 108 59 203 171
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/178.bolsonaro-popularity.png 230 38 439 298
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/168.190306231118-pba-bolsonaro-super-tease.png 374 21 657 377
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/208.novo-logo-da-globo1.png 498 74 821 475
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/154.pjimage-40.png 221 17 391 225
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/118.Jair_Messias_Bolsonaro_e_Eduardo_Bolsonaro.png 1376 327 1754 826
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/234.capture.png 432 99 583 285
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/323.p06wzhq8.png 376 110 483 235
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/349.7-5.png 615 195 790 404
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/86.x80632307_BSBBrasiliaBrasil14-01-2019PAPresidente-Jair-Bolsonaro-deixa-do-Minister.png 254 59 622 508
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/137.bolsonaro-previdencia.png 473 50 573 170
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/149.bolsonaro_6.png 171 36 383 308
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/327.bolsonaro-planalto-910x607.png 282 285 413 434
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/326.AP_18301476537390.png 991 353 1314 754
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/273.bolsonaro.png 303 105 632 533
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/82.jail-bolsonaro.png 173 137 407 441
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/328.jair-bolsonaro-2018-1540489353056_615x300.png 275 15 467 243
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/144.Jantar-na-embaixada-em-Wasghington-domingo-17-03-2019-foto-Twitter-Jair-Bolsonaro.png 321 16 431 145
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/316.bolsonaro-israel-01042019051250639.png 147 80 341 323
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/249.file-20181011-154542-o30rhh.png 378 23 472 133
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/63.Jair-Bolsonaro.png 323 68 646 457
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/156.jair-bolsonaro-discussing-violence-against-women.png 268 56 500 345
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/231.GettyImages-105458691-1540764832.png 560 146 763 399
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/28.President-Jair-Bolsonaro.png 460 35 677 303
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/189.2jfxlumkmxck5dlhpdwll2pm6.png 167 20 400 307
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/299.1064001-1%20-%2002.02.2017_mcamg-9890.png 214 109 575 521
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/261.eduardo-bolsonaro.png 533 158 923 683
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/58.h7-brazil-bolsonaro-glenn-greenwald-the-intercept-sergio-moro-lula-de-silva-imprisonment-threat.png 422 63 567 252
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/207.33805_2_EL.png 306 151 417 257
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/98.Jair_Bolsonaro_pela_EC_77_-_M%C3%A9dico_Militar_no_SUS-800x500_c.png 295 68 508 317
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/259.8B41C813F8AF72D973FD0A234626D7D70C0A_bolsonarotres.png 265 18 478 290
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/191.BOLSONARO-16.png 569 143 664 255
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/150.33580_2_EL.png 190 0 387 240
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/269.bolsonaro-globo-1132x509.png 350 0 503 187
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/27._106791267_053667063.png 185 47 372 298
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/52.1076544070.png 193 118 403 410
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/314.bolsonaro.png 477 101 693 363
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/44.105801665-1552997828976gettyimages-1131459354.png 236 39 391 235
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/246.bolsonaro_jr_39137140_537370103358884_3820797713906139136_n-820x1024.png 301 6 437 186
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/315.eduardo-bolsonaro.png 217 12 501 390
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/111.39874824733_367e149954_k.png 589 129 675 230
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/74.bolsonaro-q-1-868x644.png 414 109 690 441
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/113.image.png 358 59 534 258
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/305.30827_2_EL.png 262 0 486 270
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/128.AP19165515115953.png 1436 589 2596 2243
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/69.45774283825_8673b82f64_b.png 329 174 544 457
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/260.1558642121_108264_1558642335_noticia_normal.png 379 67 575 289
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/115.WhatsApp-Image-2019-06-07-at-17.46.33-1200x720.png 424 39 780 483
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/76.jair-bolsonaro-brazil.png 611 189 1208 935
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/80.brasil-politica-jair-bolsonaro-20190521-0013.png 763 46 1318 785
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/263.ande01_4103_01.png 189 36 360 262
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/10.a9438153-1b07-4c6e-bf34-61136e29dcc1.png 203 64 324 213
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/257.gettyimages-1054587052_slide-871690c5cfb649d81fc8088b996b53159033ab2a-s800-c85.png 333 226 471 391
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/37.5568.png 141 21 247 149
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/346.carnival_bolsonaro.png 124 62 390 369
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/153.bolsonaro-golden-shower-tweet.png 1122 137 1619 784
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/274.gettyimages-954345770.png 420 226 515 337
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/292.bolsonaro_0.png 751 22 987 314
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/308.bols_embed1.png 281 136 392 276
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/185.Bolsonaro.png 424 105 517 217
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/103.190122115116-01-jair-bolsonaro-davos-super-tease.png 342 119 675 537
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/275.President-Bolsonaro-and-Economy-Minister-Guedes-in-Manaus-photo-Alan-Santos-PR.png 455 203 631 426
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/286.ap_18249845421300-7f7b9e45b1a05e50aecbf2bfea1d26deff0d1f02-s800-c85.png 278 61 543 393
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/350.Bolsonaro-acordo.png 262 87 596 500
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/290.bolsonaro-3-1280x720.png 423 86 744 504
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/200.bolso.png 653 165 1052 668
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/318.2019-03-28T230146Z_1_LYNXNPEF2R1YD_RTROPTP_4_POLITICA-BOLSONARO-PREVIDENCIA-CERTEZA.png 169 34 338 247
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/71._105918850_mediaitem105918281.png 218 58 486 371
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/212.merlin_153384120_0eeb94fc-848b-4f9c-b804-5bf22560747e-articleLarge.png 306 6 412 130
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/147.jair_messias_bolsonaro_toma_posse_como_presidente-wide.png 245 27 428 255
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/252.9d941000-0046-4066-b690-09c47390abe2.png 516 60 948 563
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/199.Jair_Bolsonaro_-_Brazil-1024x683.png 466 88 694 379
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/138.mcmgo_abr_010120192515-5941853.png 281 168 465 405
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/233.bolsonaro-clan.png 364 71 497 232
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/321.merlin_149582352_a335e3c6-dd1c-4e77-91d8-42b7d6463a14-articleLarge.png 185 52 272 151
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/255.bolsonaro_casts_doubts_on_bndes.png 165 54 316 220
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/8.x83910589_BSBAnapolis-GOBrasil31-07-2019Presidente-Jair-Bolsonaro-participa-da-cerimonia.png 500 73 696 324
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/146.20190318T225511Z_1000127111_RC123BE85960_RTRMADP_3_USABRAZIL_Main.png 296 90 465 308
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/97.bolsonaro-time-magazine.png 622 139 975 628
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/101.3130.png 98 35 184 133
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/247.IMAGEM_NOTICIA_3.png 667 145 1005 570
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/18.Z-Felipe-papa-y-Bolsonaro.png 118 55 292 334
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/162.1-Jair-Bolsonaro-291.png 418 93 634 345
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/165.merlin_148943157_e0c1c887-8a8e-49c9-905c-9c00576b5509-articleLarge.png 255 44 365 181
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/272.bolsonaro-1.png 256 27 438 246
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/23.https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F181231114959-01-bolsonaro-inauguration-preview-intl-file.png 442 139 765 553
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/17.brazilian-president-jair-bolsonaro-has-hit-back-at-reporters-accusing-the-government-of-devastating-the-amazon-1564769661946-2.png 265 1 483 279
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/205.xTRUMP-e-BOLSONARO.png 644 136 768 284
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/278.bolsonaro-festeja-en-la-final___A4id_Tcgp_1256x620__1.png 541 95 699 284
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/341.Jair-Bolsonaro.png 509 63 720 319
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/141.Jair_Bolsonaro_insert_by_Agencia_Brasil_Fotografias_via_Wikimedia_Commons-600x400.png 195 16 394 270
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/304.1540326140733.png 481 113 1026 793
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/330.47964026_303.png 62 51 274 320
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/262.bolsonaro_3.png 157 2 321 201
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/331.bolsonaro-nordeste-910x607.png 396 106 592 351
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/186.afp-jair-bolsonaro-000_1GA4JL-20190509_8A48DD8357494760B34B8A9794CB7B05.png 142 11 244 135
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/203.AP_18362762518372.png 500 207 903 693
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/102.1000x-1.png 182 164 472 552
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/157.lead_720_405.png 287 0 477 241
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/6.2ago2019---o-presidente-jair-bolsonaro-psl-e-a-primeira-dama-michelle-bolsonaro-na-foto-mais-curtida-do-facebook-do-presidente-entre-janeiro-e-julho-deste-ano-1564782697233_v2_900x506.png 231 10 365 176
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/73.1540312553_935199_1540313195_noticia_normal.png 118 195 347 512
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/338.15168219317871.png 362 54 515 241
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/337.Jair-Bolsonaro-Foto-Antonio-Cruz-Ag%C3%AAncia-Brasil-editada.png 74 15 234 217
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/190.bolsonaro-no-gov.png 223 38 448 314
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/9.richard-jair.png 558 11 696 176
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/77.A-Amazonia-e-nossa-diz-Jair-Bolsonaro-300x169.png 189 31 282 141
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/235.48599171_303.png 211 191 328 336
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/253.GettyImages-1054587896.png 381 177 680 527
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/188.jair-bolsonaro-20190510-002.png 1135 241 1864 1173
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/303.IZISJRVEVQI6TJ3H26VYJLXT5E.png 483 142 1059 948
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/256.4f92af6a-4bd2-11e9-8e02-95b31fc3f54a_image_hires_232335.png 560 0 1094 645
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/244.081018-wd-bolsonaro.png 76 13 231 209
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/310.jair-bolsonaro-posse-sergio-moro-2019-2328.png 790 323 990 649
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/194.ec319c578de946c49dd87f99cec8fd64_18.png 388 67 683 447
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/225.president-jair-bolsonaro-and-wife-michelle-ap.png 203 95 334 256
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/211.bolsonaro-2.png 1041 121 1703 971
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/319.Brazil-election-polls-Who-is-Jair-Messias-Bolsonaro-1541514.png 287 10 356 88
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/295.cdzymz0enh76qvk8k8ta2423b.png 121 9 372 352
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/351.4cd32bfd-a688-4eb5-a4f7-ad087b61c127.png 0 115 354 578
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/12.1*D60SOZjycO3HXZ7vg6CJ7Q.png 499 62 809 413
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/171.bolsonaro.7.mai_.2019.s.lima_-1-868x644.png 375 93 526 281
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/285.1665.png 151 0 233 82
+/Users/pietraferreira/Faces_Dataset/aligned/Bolsonaro/13.bolsonaro.png 309 108 595 456
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/86.brasil-politica-dilma-rousseff-20180326-001-copy.png 243 166 500 498
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/287.Brazilian-President-Dilma-Rousseff-attends-a-ministerial-meeting-to-discuss-new-measures-to-combat-the-proliferation-of.png 97 4 463 409
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/340.Anderson-DilmaRousseff.png 267 441 450 670
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/129.2012428151428178734_20.png 432 85 513 180
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/112.11gmt1swj9_3n255j10to_file.png 186 33 313 184
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/177.Dilma-Rousseff.png 308 36 747 564
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/68.170px-Dilma_Rousseff_2009.png 20 8 136 136
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/116.Impeachment_Dilma.png 311 173 551 486
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/364.Presidente-Dilma-Rousseff-650x433-ag-brasil-B-foto-antonio-cruz.png 163 38 291 198
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/263.20043_2_EL.png 381 88 519 260
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/27.gettyimages-479363354.png 657 458 1108 1082
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/294.02DILMA1-articleLarge-v2.png 89 30 242 215
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/167.Dilma-Rousseff.png 2398 953 4194 3178
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/261.Rousseff_story.png 124 34 229 159
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/266.Protest_3_20180124_350_630.png 216 41 376 238
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/157.dilma-rousseff.png 99 48 294 303
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/319.dilma-rousseff-brazil-suspended-president-facebook.png 726 139 1051 534
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/145.Dilma_Rousseff_lendo_sua_mensagem_de_2016_ao_Congresso_Nacional_%282%29_%28cropped_2%29.png 972 724 1575 1463
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/102.6157745.png 385 25 578 265
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/191.dilma-rousseff.png 215 147 461 476
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/362.Rousseff_1771348b.png 170 70 364 304
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/139.Biography-of-Dilma-Rousseff.png 133 10 315 220
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/194.dilma-roussef-1.png 532 112 794 435
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/110.GettyImages-514683898.0.0.png 432 157 722 533
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/227.5766243483_ab5e02ee8d_b.png 89 265 478 743
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/50.dilma2.png 386 248 791 761
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/273.dilmaroussef.png 187 77 399 317
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/361.092p5kl34povdw4n6w5r7ctnw.png 244 50 418 255
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/73.BRAZIL-jumbo.png 488 101 765 393
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/217.dilma-rousseff-and-hillary-clinton.png 606 127 862 444
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/296.xfoto.png 266 32 366 149
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/252.21169_2_EL.png 240 36 459 297
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/360.dilma-previd%C3%AAncia-agenda-300x300.png 119 26 216 140
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/134.A_presidente_Dilma_Rousseff_durante_cerim%C3%B4nia_contra_o_impeachment_em_31_de_mar%C3%A7o_de_2016.png 1286 225 1596 619
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/2.S_qkZ3xy.png 122 95 319 318
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/23.perseguicao-mesmo-sem-provas-lava-jato-mira-dilma-rousseff-1024x512-1024x585.png 184 44 502 436
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/324.IMAGEM_NOTICIA_3.png 632 200 897 530
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/209.c-760-380-q-100-veja-7-boatos-sobre-dilma-rousseff-que-circularam-na-web-em-2015-d4f0a722-f570-4f6c-a4d0-81c58fa7fb48.png 241 77 491 380
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/270.dilma_rousseff_education_university_of_brasilia_michel_temer_politics_government_brazil_south_america_latin_america.png 62 35 242 257
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/22.147206-004-FBD08BCD.png 49 24 146 134
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/221.dilma-rousseff_2196766b.png 166 55 395 314
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/351.Dilma+Rousseff+Brazilian+Court+Orders+Immediate+j0tfjCenGcRl.png 276 56 392 187
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/96.ap_16104735722904_custom-1e8d104f7f9b09a679a6b3609539560c07ca6a44-s800-c85.png 454 108 719 418
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/247.Lemann-Brazils-Unfolding-Crisis.png 322 142 487 329
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/195.photo_verybig_120755.png 122 122 220 238
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/354.DilmaRousseff-foi-afastada-do-cargo-sem-ter-cometido-crime-de-responsabilidade.png 317 50 490 265
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/170.show_21062014_dilma_convencao_pt_8A8127B3-462E-449A-9698-5DE928ADAE3D.png 267 94 420 281
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/208.image.png 372 196 792 724
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/345.2gYABTNDmMW9UdXczj1uc0P87VZuQ1dH.png 127 54 262 235
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/17.dilma-rousseff-728x410-720x405.png 225 88 458 377
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/184.perfil-600x600.png 134 120 387 436
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/353.469362678.png 190 180 375 416
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/72.rousseff-victoire-m.png 526 105 797 411
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/220.Dilma-Rousseff.png 212 125 442 364
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/127.62462.png 287 5 628 450
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/343._97684245_mediaitem97683109.png 243 22 455 299
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/272.BrazilPresident.png 300 140 595 530
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/11.e0c14275fff6a94f78fef1f1a7c40c77aab49563-1.png 216 28 547 489
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/300.dilma-rousseff-brazilian-presidential-election-2014-president-of-brazil-workers-party-datafolha-others-thumb.png 95 51 216 193
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/5.brasil-politica-dilma-rousseff-20181119-001-copy.png 628 169 921 523
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/327.rousseffdilma08312016getty.png 193 61 371 238
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/30.5064.png 518 58 748 354
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/352.AI2M4HYBK5XEYZQRU4RKRTAFGY.png 555 142 776 399
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/87.afp_aa3r7_3e9f1ea8bc19173b48298acdc771f991.fit-760w.png 328 135 595 448
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/201.Rousseff.png 2708 768 3689 2109
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/196.dilma-696x464.png 254 154 380 301
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/85.SDNORN3YN6NBHRVCG7HK6JUKSU.png 223 184 501 523
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/13.https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F160330142308-dilma-rousseff-speech.png 549 123 883 554
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/74.636076487517315012-AFP-AFP-F78KG.png 418 122 662 419
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/257.rts584y.png 291 52 443 245
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/92.Dilma-Roussef-007.png 681 126 947 416
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/226.Dilma-Rousseff.png 221 64 416 294
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/189.Dilma_Rousseff-Ministra.png 602 599 1341 1431
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/143.489455528.png 975 541 1837 1571
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/245.dilma-rousseff.png 379 134 596 418
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/4.gettyimages-522432798.png 2235 485 3012 1409
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/77.20180417120428_caa5f8e4fe63460db686c9af04ec56a0b207ba79fc01a52dc4e0c428ed2628b7.png 283 119 530 435
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/241.dilma-rousseff-afp_650x400_71460173248.png 199 30 444 333
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/359.083116rousseff_960x540.png 448 286 640 528
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/248.dilma-rousseff.png 444 164 708 501
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/185.gettyimages-597621034_wide-d60ad5074b7d5772e2dccbd9c5836847bdb4530b-s800-c85.png 271 85 454 295
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/347.57b375745124c99a7c2aa0d1-750-499.png 144 135 290 317
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/45._49317182_dilma_rtr1970.png 70 49 232 239
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/1.220px-Dilma_Rousseff_-_foto_oficial_2011-01-09.png 49 39 164 177
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/205.Rousseff_protests_2016_ap_img.png 726 91 996 432
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/173.987854-bbb_dsc_5137-008.png 205 45 339 216
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/136.rtscius.png 1355 546 1989 1251
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/204.41384703_303.png 305 66 443 234
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/199.160427202752-dilma-rousseff-amanpour-1-full-169.png 729 176 1044 589
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/43.Cuadros-Brazil-After-Dilma-Rousseff.png 291 197 454 391
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/214.2ac34b5f714c471da04515213482e992_18.png 216 249 460 548
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/137.xdilma-rousseff-impeachment-1400x788.png 313 56 503 294
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/35.mi_1200378726946476.png 203 56 384 292
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/225.160512_gma_brazil_impeach_16x9_992.png 316 145 544 435
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/318.30_wire5_1.png 361 100 547 349
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/288.GTY_dilma_rousseff_jef_160831_16x9_992.png 193 107 416 390
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/120.nn20130622a6a.png 291 210 676 681
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/213.1101-world-brazil.png 338 128 557 380
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/315.Famous-birthdays-for-Dec-14-Vanessa-Hudgens-Dilma-Rousseff.png 389 151 603 434
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/341.Dilma-Rousseff-Wiki.png 289 0 626 400
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/151.brazilian-president-dilma-rousseff-announces-the-appointment-of-former-FP0J3T.png 526 115 800 444
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/305.dilma-rousseff.png 0 12 149 230
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/63.dilma_rousseff_brazil_luiz_inacio_lula_da_silva_jose_padilha_netflix_the_mechanism.png 140 80 313 290
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/253.dilma.png 242 77 394 253
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/330.maxresdefault.png 287 218 563 547
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/223.dilma-630x420.png 168 61 382 316
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/122.3763.png 126 32 240 167
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/54.19486103_303.png 231 54 496 383
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/219.pilar-del-rio-dilma-rousseff-600x300.png 59 0 230 215
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/346.180908-004-2E0344EA.png 239 114 296 174
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/260.dilma_4139_356.png 111 28 253 200
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/113.15367926435b9998433b43d_1536792643_5x2_md.png 444 39 698 307
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/307.Lemann-The-Problem-with-Dilma-Roussef.png 301 97 393 199
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/34.76685morre-mae-da-ex-presidente-dilma-rousseff-3.png 378 94 542 301
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/12.450109800.png 1599 876 2980 2604
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/105.rousseff-kegC--621x414@LiveMint.png 208 96 386 327
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/239.size_960_16_9_dilma-rousseff-na-china-21.png 323 6 577 318
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/142.Dilma-Rousseff.png 780 151 1066 522
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/234.BRAZIL-articleLarge.png 181 131 409 422
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/326.photo_2018-03-26_12-19-24-1024x546.png 643 139 889 453
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/211.dilma.png 409 90 589 317
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/144.000_Mvd6712916.png 405 101 607 361
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/317.e578dcc2f4a23f7a2c0be374f24724dd445c78de-1.png 208 72 350 246
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/108.image.png 235 68 406 278
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/338.Dilma-Rousseff-and-Xi-Jinping.png 299 102 441 272
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/175.dilma-rousseff-brazil-suspended-president-2.png 500 78 647 253
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/349.dilma-rousseff-brazil-suspended-president-2.png 725 954 913 1185
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/132.oly-2016-rio-torch-rousseff_esa289.png 695 105 913 400
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/71.dilma-interview1-article-header.png 481 111 693 373
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/160.jpeg.png 383 90 778 552
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/20.Cuadros-DilmaRousseff.png 244 90 529 467
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/75.40374253_303.png 267 34 517 393
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/53.1144427.png 463 137 748 523
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/109.brazilian-president-dilma-rousseff-announces-the-appointment-of-former-FP0J3D.png 179 172 509 574
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/90.33755396288_c4ef69d3ba_z.png 91 65 276 273
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/7.brasil-eleicoes-dilma-rousseff-20180911-0001-copy.png 581 182 955 665
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/28.morre-a-mae-de-dilma-rousseff_353675_36.png 165 19 421 334
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/229.vitimas-da-ditadura---dilma-rousseff-1553632854673_v2_900x506.png 354 94 551 344
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/271.Dilma-Rousseff-2-825x509.png 250 69 484 352
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/186.hqdefault.png 144 49 249 176
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/164.37C4C50600000578-3767514-image-a-1_1472674379442.png 74 185 483 684
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/178.dilma1.png 902 500 1258 922
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/357.maxresdefault.png 480 31 815 447
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/309.xDilma-em-reuniao-de-transicaoFoto-Andre-Coelho.png 561 100 755 339
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/176.Porto-Uni%C3%A3o-da-Vit%C3%B3ria-receber%C3%A1-Dilma-Rousseff-amanh%C3%A3-16.06.2014.png 575 235 1018 770
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/94.image.png 182 125 435 443
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/335.dilma-rousseff-brazil-better-without-her_0-2.png 366 56 525 250
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/148.13brazil_video1-superJumbo.png 517 405 877 863
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/26.LHKKJTE3CPKZNVWVCBZOMQRBH4.png 510 106 758 412
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/240.dilma-rousseff19.png 148 28 257 150
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/207.BN-LN546_2ovCo_M_20151202161857.png 498 209 709 472
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/140.Dilma_Rousseff_Brazil_360x270.png 102 50 247 225
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/152._100402604_gettyimages-910149332.png 231 64 412 286
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/88.dyer2-770x529.png 325 139 544 411
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/179.gettyimages-522348778.png 329 43 509 256
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/276.trat_sub_000_a82fy.png 107 109 268 296
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/187.1458842356498-4468901.png 230 67 361 227
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/333.dilma-rousseff-1_3584696.png 554 235 935 723
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/52.gettyimages-457808612.png 1539 583 2637 1891
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/254.pm-modi-congratulates-brazilian-president-dilma-rousseff-on-re-election.png 192 0 532 335
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/337.x78813123_BRCuritiba-PR-11-09-2018HADDADA-ex-presidenteDilma-Rousseff-no-lancamento-de-Fe.png 383 130 593 386
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/290.brazil_political_crisis_c0-217-5184-3238_s326x190.png 182 37 298 177
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/280.130917144352-rousseff-brazil-president-super-tease.png 337 14 821 605
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/33.dilma-e-a-mae.png 459 208 739 592
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/295.Congresso_Lula_Dilma-868x644.png 424 199 522 312
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/350.3fev2017---a-ex-presidente-dilma-rousseff-fez-uma-vista-em-solidariedade-ao-ex-presidente-luiz-inacio-lula-no-hospital-sirio-libanes-em-sp-1486156939390_615x300.png 203 37 325 188
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/356.image.png 226 81 359 235
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/267.4-10-17%20-%20Rousseff%40450.png 126 60 247 210
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/138.7211-Dilma%20Rousseff%20presidenta%20de%20brasil.png 85 45 247 229
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/141.image.png 222 30 381 216
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/222.160425101059-olympics-dilma-rousseff-super-169.png 591 208 759 429
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/14.foto-dilma-rousseff.png 441 318 752 690
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/37.4dd76802e6d44a968ed75e05de1dd07d_18.png 632 240 792 421
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/44.image.png 179 31 344 233
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/238.brazil-presidents_B2E5A70F03274E44A1E60D32D91BEA7C.png 179 16 317 182
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/321.d8cb8a5157581b4921a719.png 328 71 445 214
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/48.934028-dilma_010040.png 2323 482 3047 1355
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/299.dilma.png 77 108 430 555
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/18.BN-NF195_0322di_P_20160322153422.png 256 98 460 359
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/51.20160326_blp517.png 161 71 317 281
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/99.1466627246_497140_1466628206_noticia_normal.png 250 73 371 216
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/125.brazil-suspended-president-dilma-rousseff-e1472485822426.png 96 19 209 159
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/65.1463037090231.png 69 35 268 257
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/212.dilma-rousseff-do-i-look--010.png 137 73 297 264
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/107.160331093144-brazil-president-rousseff-facing-impeachment-newton-00005212-large-169.png 130 0 300 207
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/56.michelle-bachelet.png 686 148 1137 707
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/25.dilma.png 302 315 767 926
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/193.dilma-rousseff-in-sao-paulo-DYTEF5.png 287 190 620 587
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/244.Dilma-Rousseff-Brasilia-15-avril-2016_0_730_472.png 252 95 464 364
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/39.4b958bd705618e49b1556a7aecf7d66e.png 166 112 616 757
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/279.mrs-dilma-rousseff-president-of-brazil-DTTYNK.png 449 277 760 656
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/293.6846-dilma_rousseff_brazil.png 155 64 336 277
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/82.xxun-temer-superJumbo.png 607 156 1114 905
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/155.28655.png 76 96 316 375
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/76.4928.png 87 21 217 174
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/235.Dilma-Sergio-868x644.png 288 133 622 537
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/150.dilma-rousseff.png 257 147 454 398
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/172.dilma-rousseff-e1472593939228.png 218 51 393 225
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/32.b77d0e01-87a2-4032-b083-052c0df93424.png 314 315 612 694
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/55.Dilma-Rousseff-2012-getty-840x440.png 302 82 578 396
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/84.gettyimages-597677520.png 353 24 613 363
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/269.41859092965_36f51de23a_z.png 353 78 488 248
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/171.dilma_rousseff_luiz_inacio_lula_da_silva_spain_brazil_south_america_lawfare.png 289 45 440 224
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/180.7d1nzbgmqy9jegztzwds0kw4h.png 279 1 404 147
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/119.Dilma-Rousseff%2C-main-2.png 312 149 646 551
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/274._89223493_89223489.png 348 96 560 371
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/256.5c33d3862400005000615d9f.png 134 50 380 315
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/91.dilma-rousseff-brazil-suspended-president-2.png 421 59 587 260
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/111.18632383_303.png 171 18 407 327
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/89.41Nv2r5WBEL.png 46 55 256 319
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/8.75826442_RIRio-de-Janeiro-RJ-26-03-2018A-ex-presidente-Dilma-Rousseff-e-o-embaixador-Celso.png 453 152 734 516
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/41._89200434_89199871.png 0 0 490 439
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/103.5c37b0082400003300485791.png 192 74 389 315
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/218.dilma-rousseff-1397161392734_1920x1080.png 920 34 1344 554
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/128.dilma-rousseff-20182.png 78 8 162 110
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/58.2016-04-15t222155z888796032gf10000384024rtrmadp3brazil-politics.png 1701 613 2605 1831
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/149.598124950.png 188 94 348 292
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/292.maxresdefault.png 689 181 980 533
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/312.oped--621x414.png 233 80 389 272
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/70.dilma-rousseff-20101031-12-original.png 456 83 649 312
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/104.ap_16238005566548_custom-c6fa9bc5e8833255f98b144370797a55a9f521dc-s800-c85.png 111 50 428 464
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/3.xA-ex-presidente-Dilma-Rousseff.png 419 128 639 399
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/24.dilma-rousseff-20161219-0001.png 465 0 1256 1000
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/165.5c340db31f00002f09276d2c.png 226 3 411 217
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/210.BRAZIL-articleLarge.png 161 211 492 639
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/133._89238819_dilma.png 181 26 443 360
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/232.5cc171a824000036003836d3.png 108 40 315 296
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/66.p067ffrs.png 290 87 483 305
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/62.35641722_NacionalDona-Dilma-Jane-mae-da-presidente-Dilma-Rousseff-FotoAlexandre-Guzanshe-0.png 325 232 491 454
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/289.9664598.png 341 142 574 419
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/258.Dilma-Rousseff-is-being-u-014.png 95 11 189 120
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/38.220px-Dilmapalacioburiti.png 49 8 138 112
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/298.1535916269_892259_1535916520_miniatura_normal.png 97 33 219 177
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/284.collag_647_041216111732.png 306 25 647 404
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/115.5c37822e220000f608e06ed0.png 233 93 379 260
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/21.090516RF_Dilma-Rousseff-014.png 361 171 595 473
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/60.Dilma-Rousseff.png 47 27 208 225
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/216.dilma-rousseff-sorri-350x266.png 73 73 227 240
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/215.Lula.png 215 43 447 342
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/246.maxresdefault.png 399 0 938 613
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/302.https%3A%2F%2Fblogs-images.forbes.com%2Fandersonantunes%2Ffiles%2F2014%2F10%2Fdilmar.png 246 9 976 868
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/331.FTA20180927065.png 284 108 752 756
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/355.2E33E60CA9D94BDD988E5ECF081B353B.png 130 23 249 171
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/242.Dilma-Rousseff.png 268 166 463 439
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/154.Dilma-Vana-Rousseff.png 843 702 1061 980
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/147.dilmaabc.png 293 10 417 164
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/49.104399764-RTX2RZLH.png 135 94 332 333
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/224.1048428088.png 469 0 754 344
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/29.170px-Dilma-shash.png 31 80 117 176
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/268.dilma-_nilton_fukuda_msn.png 35 67 222 287
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/358.dilma-worried-big.png 428 0 860 432
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/249.dilma1-400x250.png 227 50 421 298
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/251.Lula-and-Dilma-Rousseff.png 305 100 586 405
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/130.dilma-rousseff.png 103 49 315 292
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/9.1462843730749.png 196 42 429 318
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/98.Dilma-Rousseff-400x224.png 175 29 299 164
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/156.ministro-alexandre-moraes-2018-2.png 67 7 222 199
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/306.239266-suzy-rego-rejeita-comparacao-com-950x0-4.png 195 92 411 361
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/36.dilma-rousseff.w330.h330.png 83 44 264 254
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/106.Visita_Dilma-MA-32-kwyF-U203708250743R6H-1024x576%40GP-Web-688x400.png 244 69 463 345
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/262.dilma-rousseff.png 1348 429 1839 1035
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/188.Dilma-Rousseff.png 65 19 175 147
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/344.dilma_defense_top.png 233 72 330 190
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/206.1472489186_307212_1472489290_noticia_normal.png 202 171 489 544
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/314.Dilma_Rousseff_e_Nicolas_Maduro-09-05-2013.png 1847 670 1966 798
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/230.dilma-rousseff-598115930.png 250 115 423 304
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/40.dilma-rousseff.png 338 97 523 319
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/100.151204BrazilRousseff.png 2897 575 3759 1772
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/334.dilma-rousseff.png 156 81 394 360
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/61.30mar2015-a-presidente-dilma-rousseff-ajeita-os-cabelos-durante-a-cerimonia-de-entrega-de-1032-moradias-do-programa-minha-casa-minha-vida-em-capanema-no-para-nesta-segund-copy.png 275 106 544 445
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/259.dilma-hablag.png 236 61 411 257
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/42.5732ee699105841d008c210b-750-563.png 268 164 467 448
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/236.Mhoje_dilmar_photo_jpg.png 121 24 282 224
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/336.Rousseff-kpdE--621x414@LiveMint.png 257 79 410 272
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/114.645470-brazil.png 458 135 616 328
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/59.WhatsApp-Image-2019-07-13-at-11.21.14.png 306 130 567 439
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/313._91000120_035037708-1.png 234 71 416 288
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/329.44173866375_f8e9825016_k-e1538660510755.png 420 408 607 644
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/10.dilma-rousseff-afp-getty.png 361 105 597 402
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/93.dilma-rousseff-1.png 243 164 614 621
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/80.Dilma-Rousseff.png 408 153 712 540
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/83.13022019-dilma-rousseff-interview-brazils-first-female-leader-on-trying-to-clear-her-name-img1.png 222 130 403 357
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/47.dilma-idenizada-696x456.png 209 105 460 412
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/174.Presidenta-Dilma-Rousseff-1-Brasi%CC%81lia-28072016-Foto-Roberto-Stuckert-FilhoPR-720x480.png 297 134 439 317
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/78.dilma_rousseff_44444-5047565.png 292 147 552 481
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/169.688077-000_mvd6643727.png 386 88 573 325
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/233.Dilma-TV-verde-e1425885499536.png 215 38 346 197
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/101.800.png 319 167 600 494
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/166.000_AG282-e1463052759940-1024x640.png 396 118 633 416
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/275.dilma-rousseff-impeachment-brazil.png 588 200 780 442
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/243.lead_720_405.png 343 55 519 283
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/31.45565202854_92775f11d0_z.png 351 48 525 255
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/310.dilma-1000x530.png 531 90 694 297
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/159.brazil_2189746b.png 218 34 357 211
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/328.17866540.png 294 103 541 414
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/264.LM_Djilma-Rousseff-ato-contra-golpe-Teatro-Bancarios-Brasilia_06008242016-850x355.png 348 33 574 314
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/168.15436113375c01a3c9e82a0_1543611337_3x2_md.png 408 85 577 292
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/123.Dilma%20Rousseff3x2.png 277 66 435 254
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/182.Dilma-Rousseff-votes-014.png 105 23 216 146
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/15.Dilma-Rousseff.png 266 79 485 359
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/6.Dilma-Rousseff.png 1752 381 2315 1098
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/118.7375678-3x2-700x467.png 85 122 213 270
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/303.bigstock-Dilma-Rousseff-83996783.png 125 68 236 202
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/131.falar-com-dilma-rousseff.png 191 59 376 287
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/181.18229045.png 461 133 720 482
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/316.Kissinger_henry_rtr_img.png 550 60 881 480
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/285.dilma-ae-1024x682.png 519 122 839 508
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/162.djea7rm6oyoizyx4jo93dh7ho.png 362 36 515 228
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/301.fhcelamounier.png 178 39 299 191
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/323.1601831-dilma-rousseff_34836e096c5a4db98917ab73b243184e.fit-760w.png 167 368 559 839
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/281.dilma-rousseff.png 395 145 805 667
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/79.2-12039058.png 658 181 1168 876
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/146.2859625373-dilma-rousseff.png 274 112 462 353
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/57.mi_766455693038060.png 146 33 242 141
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/19.192471-dilma-rousseff-sobre-impeachment-e-inter-diapo-2.png 141 116 458 514
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/135.17025230.png 86 5 248 207
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/342.Mhoje_dilmaa_photo_jpg-825x510.png 319 68 530 315
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/297.13022019-dilma-rousseff-interview-brazils-first-female-leader-on-trying-to-clear-her-name-img3.png 233 107 448 354
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/16.1459360268_509502_1459360792_noticia_normal.png 356 121 575 416
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/200.77221211_brazilian-former-president-2011-2016-dilma-roussef-flashes_editada.png 237 86 459 365
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/278.20190629120640_284be054-612d-4614-b221-54a3b0fe044d.png 393 76 609 369
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/126.120604025757-dilma-rousseff-story-top.png 260 40 390 190
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/228.dilma_2006_celso_junior_tia1.png 169 0 449 298
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/190.S5DilmaRousseffSpeech.png 573 168 1026 814
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/124.S1DilmaRousseff.png 381 66 560 277
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/203.rousseff_xiaoyeyan_staff-900x580.png 398 110 503 248
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/282.141006-dilma-rousseff_0.png 168 15 290 172
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/202.20190713102103248813a_790_525_80_s_c1.png 203 39 562 525
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/183.dilma0.png 95 23 263 210
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/255.DILMA-ROUSSEFF-2.png 198 50 392 293
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/286.dilma-696x463.png 232 94 389 294
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/231.10-dilma-rousseff.w700.h700.png 248 158 476 447
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/339.1zo6pk.png 284 59 454 278
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/237.dilma-rousseff-ap3.png 134 59 290 241
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/308.21210_2_EL.png 205 63 406 315
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/250.methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb44a3918-92ca-11e7-8177-dcdb1e4e95ab.png 276 0 540 294
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/67.Dilma_Rousseff-750.png 215 123 505 492
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/95.maria_augusta_ramos_dilma_rousseff_michel_temer_brazil_politics_south_america_latin_america.png 97 8 341 333
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/322.31747_2_EL.png 189 71 327 244
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/348.20171027192803684897i.png 380 93 548 296
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/192.dilma3.png 269 266 560 608
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/265.530272548.0.png 516 223 658 380
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/81.xA-ex-presidente-Dilma-Rousseff.png 360 91 728 559
+/Users/pietraferreira/Faces_Dataset/aligned/Dilma Rousseff/277.untitled-article-1472484964.png 433 85 654 363
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/287.sfrqjsewx1qobgfnasnb.png 348 56 454 184
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/275.donald-trump-resign-2019-family-immunity.png 1038 140 1484 672
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/104.donald-trump-the-apprentice.png 267 10 410 181
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/132.Donald-Trump.png 177 28 422 350
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/123.donald-trump_20de9f0e-a338-11e9-88eb-6879d27b9db7.png 386 36 609 323
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/178.The%20Real%20Story%20Of%20Donald%20Trump%20Jr.-02.png 969 538 1274 919
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/12._107327715_gettyimages-1150593321.png 215 19 377 218
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/133.how-rich-is-donald-trump-really-forbes-says-us-presidents-net-worth-is-3-1-bn-but-his-tax-filings-show-10-bn.png 190 89 395 349
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/276.Trump-baseball-bat-rt-img-e1557711116663.png 481 121 689 383
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/44.donald-trump-january-2019-e1562545869608.png 278 39 471 296
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/74.June10-Donald-Trump.png 2570 678 3856 2462
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/257.kim-jong-un-donald-trump.png 390 28 552 231
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/63.gettyimages-1159706651.png 97 0 172 70
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/174.donald-trump-comments-about-princess-diana-1024x683.png 391 69 605 339
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/208.TRUMP-1.png 177 14 338 222
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/213.donald-trump-tom-brady-sue-nfl.png 172 34 434 373
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/214.1200x-1.png 233 61 395 267
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/306.313183.png 203 11 322 161
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/210.12-donald-trump-aubrey-o-day.w700.h700.png 103 133 302 396
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/139.190703-donald-trump-se-1147a_0a80d4276c086e6b0bab88ee2ca1d8e6.png 461 599 1018 1379
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/252.Fred-Trump-and-Donald-Trump-together.png 231 66 429 320
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/234.042319_trump-1556039621.png 669 268 833 474
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/322.1559667440-APTOPIX-Trump.png 465 111 613 288
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/75.PresDonaldTrump-1022296714.png 1464 532 2128 1438
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/248.B3-EK810_BAKER_P_20190703174046.png 286 34 378 142
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/259.rossano-rubicondi-ivana-tump-donald-trump-jr-ivanka-trump-news-photo-77346637-1562617097.png 1097 254 1332 560
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/192.snl-saturday-night-live-is-there-a-new-episode-this-week-alec-baldwin-donald-trump.png 233 55 385 247
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/62.d5998386-6f59-11e9-994e-1d1e521ccbf6_image_hires_035219.png 366 112 724 581
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/144.cropped_GettyImages-488226322.png 231 6 393 191
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/185.NINTCHDBPICT000504848903.png 2641 494 3632 1861
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/10.donaldtrumpohio0208.png 941 123 1414 696
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/239.1562850610-0.png 312 132 626 520
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/80.70146375.png 158 7 277 149
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/307.donald-trump-860x430.png 357 0 552 257
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/86.106009053-1562676996434gettyimages-1066824742.png 389 170 505 311
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/168.hv5soju7_400x400.png 110 20 251 190
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/286.trump-gIyG_cover.png 413 117 605 401
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/221.PresDonaldTrump_18260700973102.png 782 206 1562 1200
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/11.800.png 412 40 621 303
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/163.gettyimages-578546876.png 553 100 755 344
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/18.skynews-donald-trump-mass-shootings_4736583.png 401 0 519 143
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/84.5cd141e1021b4c7cb62fb572-750-500.png 353 22 510 240
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/206.el-paso.png 927 350 989 416
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/179.donald-trump-drop-out.png 1204 331 1872 1220
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/236.June-10-Boycott-Donald-Trump-Gilmore-810x445.png 372 51 618 364
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/6.TrumpPence.png 534 193 674 368
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/24.trump-1.png 333 53 643 444
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/345.goo.png 483 148 567 244
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/65.7_ZdWS9Z2D8-1.png 311 132 511 449
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/33.800.png 316 237 464 415
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/342.05krugman-web-mediumThreeByTwo210.png 87 36 149 104
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/261.donald-trump-2.png 2652 907 3352 1880
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/98._106112178_donald.png 277 0 460 229
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/21.04Douthat-Web-articleLarge-v2.png 263 100 348 195
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/102.image.png 148 23 348 280
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/189.39429675_303.png 235 44 394 242
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/67.donaldtrumpmexicopaper.png 694 140 918 445
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/56.time-100-donald-trump2.png 446 277 756 640
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/158.Donald-Trump.png 381 42 640 377
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/209.GettyImages-491868080.png 1351 352 1758 880
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/105.trumpobama.png 208 47 409 302
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/269.Donald-Trump-the-worlds-biggest-expert-in-almost-everything.png 279 0 701 437
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/284.help-wanted.png 75 186 278 450
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/290.donald-trump.png 758 151 1457 1028
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/318.39c4daec-2e0e-46f3-a52a-77a63a94692e-5D_A0739.png 251 126 327 210
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/118.rs_1024x759-190601075903-1024-donald-trump-meghan-markle.cm.6119.png 529 96 661 258
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/77.MR7HXRJDWBFLDBE4FERYATTMTY.png 188 60 444 352
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/241.donald-trump-2.png 144 83 309 327
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/202.GettyImages-1155253407-640x480.png 262 45 385 192
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/199.1547335584940.png 286 109 601 504
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/304.920x920.png 508 31 768 392
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/129.2019_0708-donald-trump-1200x800.png 358 47 770 584
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/17.5d48196f2400008c1793768f.png 167 5 286 149
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/176.86b5b41c-9b59-4929-9dfa-f6082ed45b12-cpac_flag.png 197 37 367 245
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/40.190804103257-cory-booker-sotu-large-169.png 163 8 289 163
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/16.donald-trump-8-1.png 1147 403 1624 993
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/172.RTX6PCYN.png 109 25 205 136
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/169.president-donald-trump-and-first-lady-melania-trump-arrive-news-photo-1153784180-1562605650.png 221 29 326 147
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/19.trump-video-games.png 772 0 2220 1836
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/81.RTX6Y7VR.png 287 27 495 296
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/289.gop_2016_trump_54631635_e1543543169740.0.png 139 30 444 432
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/127.fwdqoclun1cyryq1kdqk.png 330 7 476 182
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/309.download-1.png 475 30 768 403
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/135.AP_19019717725291-1000x666.png 258 104 573 484
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/87.donald%252520trump%252520global%252520warming%252520polar%252520vortex%252520tweet%252520lede.png 921 165 1097 388
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/281.26-trump-appeasement.w700.h700.png 283 100 460 326
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/115.bidenjoe_073119upi_lead.png 93 3 196 131
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/153.donald-trump.png 181 15 390 274
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/323.trump-orlando-credit-joe-raedle-getty.png 351 135 452 259
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/278.5b6b6f7b2154a332008b4cc4-750-375.png 348 79 517 304
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/110.11303602-3x2-700x467.png 406 11 568 211
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/267.donald-trump-1.png 207 103 410 349
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/92.stream_img.png 241 47 464 321
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/263.0_TOPSHOT-US-POLITICS-TRUMP-OPIOIDS.png 243 131 339 245
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/38.ott_now_trump_wine_190726_1564176970092.nbcnews-fp-320-280.png 104 6 219 151
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/167.Princess-Reema-Meets-Donald-Trump-.png 377 155 485 282
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/35.donald-trump-4.png 234 22 412 251
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/99.6360489455192162291563850737_Trump.png 1093 184 1856 1125
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/337.trump-justin-amash-impeachment.png 501 76 768 418
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/333.r0_0_800_600_w1200_h678_fmax.png 240 56 528 456
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/175.gettyimages-8102399841.png 231 44 334 182
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/280.1152120793.png 437 42 765 480
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/212.donald-trump-wilbur-ross-john-roberts-census.png 694 148 1019 581
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/196.beto-rt-er-190805_hpMain_16x9_608.png 155 103 225 184
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/121.AP_19088052845440.png 524 177 729 422
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/237.Donald-Trump.png 380 38 663 405
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/235.donald-trump-in-atlantic-city-d8341a3e9d825403.png 943 101 1327 577
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/334.2380.png 160 8 238 101
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/355.190522-donald-trump-cs-1105a_2654c534b957b91c5fad087896f64dad.fit-760w.png 384 171 516 330
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/325.donald_trump-5bfc47b146e0fb0051c41f8a.png 612 332 1117 1054
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/152.Donald_Trump.png 381 257 1154 1247
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/23.416x416.png 149 12 287 186
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/106.gettyimages-613703418-1481828491.png 373 39 504 210
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/180.trumpspeech.png 566 144 862 526
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/260.Donald-Trump-debate.png 527 109 729 380
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/296.instagram_share_image.png 521 535 1008 1175
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/147.Trump.png 140 20 367 289
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/112.ovkkfifyllk1pvvx9jud.png 266 98 501 399
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/181.the-new-yorker-who-is-donald-trump.png 239 33 430 278
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/70.5d401296260000aa0f045cfd.png 100 6 183 102
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/295.gettyimages-915020294.png 553 86 790 401
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/311.donald-trump-putin-meeting-gq.png 830 124 1009 355
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/205.donald-trump-900_chip-somodevilla-getty.png 349 26 577 299
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/338.190707-trump-fox-news.png 146 28 360 293
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/122.9923f960-a10c-11e9-9a3c-98259c87fba2_image_hires_073515.png 302 0 843 574
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/220.PRC_78774684.png 267 22 399 181
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/207.GettyImages-1165125587.png 165 0 227 59
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/219.donald-trump-photo-by-scott-olsongetty-images.png 575 139 716 300
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/357.donald-trump-0619-900_mark-wilson-getty.png 320 30 513 259
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/79.47f75a0eca404b6fbbb8240f5831ba7d_18.png 349 207 402 263
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/157.1149086909.png 586 92 736 287
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/327.GettyImages-610603738-582f44153df78c6f6a070dd1.png 148 0 246 103
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/53.1160623_1.png 109 67 242 218
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/255.MW-HN253_arends_ZH_20190712135126.png 292 120 663 501
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/142.ec1_g1014factcheck.png 370 92 659 484
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/151.UUPOE5OSBJEP5LDZZYUHJRP43A.png 473 327 607 476
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/182.10730904-3x2-700x467.png 358 60 558 310
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/195.190711193850-pba-trump-census-hecho-del-dia-large-169.png 106 26 235 175
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/145.donald-trump-7.png 674 246 1335 1103
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/60.donald-trump-july-2019-e1562694226557.png 209 0 370 201
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/225.149831-004-E1DF5942.png 28 34 190 234
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/324.Trump-1091954524.png 871 414 1220 874
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/51.donald-trump-birthday-e1558533939694.png 1065 301 1829 1214
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/26.PRC_78493978.png 295 26 480 285
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/58.d62b93bf-f615-410b-b533-b0dfefef682b.png 109 0 430 351
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/1.58bd35b5-99ce-497e-8ff0-cc89190ba326-VPC_TRUMP_TOLEDO_DESK_THUMB.png 719 148 941 418
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/217.PM%20Netanyahu%20and%20President%20Trump,%20Israel.png 403 163 461 225
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/223.Trump_276375241-Read-Only-558x372.png
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/349.27-cohn-lede.w512.h600.2x.png 426 330 602 551
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/71.Cassidy-What-sort-of-man-is-Donald-Trump.png 241 52 476 369
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/300.220px-Donald_Trump_Laconia_Rally%2C_Laconia%2C_NH_4_by_Michael_Vadon_July_16_2015_19.png 84 0 151 72
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/274.db28f746-a18b-11e9-9a3c-98259c87fba2_image_hires_045059.png 497 21 834 475
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/198.donald-tr.png 752 210 1274 874
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/312.donald_trump_flag.png 245 15 376 171
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/266.800.png 390 147 517 309
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/351.GettyImages-1157407913.png 643 71 801 270
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/216.AP_FLCO101_CAMPAIGN_2016_TR.png 269 46 543 393
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/271.180111-donald-trump-se1223p_3ca0bf78e44a9751fe4fbd0fd27e22ca.fit-760w.png 293 60 447 247
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/143.donald-trump-white-house.png 421 36 578 215
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/2.skynews-donald-trump-shootings_4737099.png 271 44 486 312
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/291.shutterstock_307005065-5bfc476bc9e77c0051a0fa4f.png 212 16 395 272
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/113.1562358847666.png 723 208 1121 730
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/137.960x0.png 221 45 510 394
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/314.mundo-donald-trump-20181024-001.png 1001 166 1748 1247
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/356.lead_720_405.png 80 60 195 199
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/46.gettyimages-962846862.png 160 67 411 365
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/155.donald-trump-1.png 625 234 979 794
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/90.donald-trump-1.png 207 103 410 349
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/301.092316trumpfather3_960x540.png 517 87 738 363
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/350.letterman-trump-1-2000.png 1222 167 1742 833
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/297.EJEAN-LEDE.w570.h712.png 195 71 380 313
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/48.skynews-donald-trump-elijah-cummings_4734322.png 450 25 634 256
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/14.ca573408-b484-11e9-8f9c-a6398a9f90a9_image_hires_150136.png 80 165 332 509
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/36.skynews-donald-trump-us-president_4729254.png 838 70 1199 548
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/308.president-trump-rally-florida-ap-jef-190508_hpMain_4x3_992.png 403 278 469 350
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/340.0_President-Trump-Hosts-Made-In-America-Product-Showcase-At-The-White-House.png 199 14 354 210
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/316.promo389283896.png 128 6 229 126
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/226.genesimmonsgoodmorningbritain2019_638.png 261 47 448 282
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/108.1000x-1.png 252 124 556 532
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/57.190711193850-pba-trump-census-hecho-del-dia-large-169.png 106 26 235 175
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/166.el-paso-shooting-memorial.png 1001 1263 1056 1321
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/52.3000.png 145 6 211 79
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/100.2019-06-17T061053Z_1651960584_RC18F4BE1570_RTRMADP_3_USA-FED-1024x651.png 574 115 717 282
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/294.us-praesident-donald-trump-seine-strafzollpolitik-scheint-im-streit-mit-china-kaum-wirkung-zu-entfalten-.png 297 0 440 147
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/31.24c9bac2a25640de9a1cc1e2f2fb162f_18.png
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/343.polspphotos586226-331x186.png 108 0 205 115
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/299.44fdaa2b-bf67-4900-917b-c35178bb7217.png 140 0 381 348
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/138.donald-trump623.png 398 45 546 216
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/146.Donald-Trump-Main.png 194 26 282 128
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/45.BZ7LGZSXCFHOXAN2XCTAM4QRPQ.png 222 27 407 274
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/245.of6u6j0b0gzcoeidifko.png 439 61 625 277
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/5.skynews-donald-trump-shooting_4736696.png 303 33 445 212
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/88.el-paso.png 927 350 989 416
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/339.193845-004-8CF3BFB5.png 107 58 267 254
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/303.donald-trump1.png 2442 380 3388 1628
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/47.donald-trump-3.png 582 181 1079 874
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/32.Cobb-ElijahCummingsTrump.png 116 43 191 131
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/331.43627503520_d3c2b9a325_k.png 870 134 1197 531
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/305.trump.png 751 174 1080 594
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/134.trump-white-house-lawn.png 1014 278 1469 876
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/320.gettyimages-577288696.png 201 0 357 181
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/244.carlo-allegri-donald-trump-lgbt-flag-2016-presidential-election.png 133 0 207 70
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/246.31004264678_0ab8eeb5bd_k.png 1054 207 1463 711
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/59.barr-donald-trunmp.png 13 0 255 285
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/41.lead_720_405.png 297 28 479 252
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/96.Trump-press-conference-2-15-19.png 376 70 598 357
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/268.d-trump.png 333 46 679 473
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/50.donald-trump-1161237.png 162 0 406 271
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/130.usa-donald-trump.png 286 3 453 216
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/188.2019-04-04t162835z_544087846_rc12c57db130_rtrmadp_3_usa-trump_0.png 413 33 648 320
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/141.Donald_Trump_August_19%2C_2015.png 108 34 270 225
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/69.donald-trump-7.png 674 246 1335 1103
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/55.NINTCHDBPICT000504106168.png 1718 222 2295 973
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/66.3799.png 90 10 220 165
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/109.lead_720_405.png 436 65 577 227
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/162.0_JS188147554.png 278 70 381 185
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/249.p07bxrs9.png 434 72 607 273
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/159.donald-trump-g.png 681 177 1172 828
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/161.skynews-donald-trump-us-president_4729254.png 838 70 1199 548
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/164.GettyImages-1048898190.png 262 32 411 204
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/315.15582953836477.png 175 19 372 272
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/125.trump_46119_c0-75-3000-1824_s885x516.png 304 72 473 276
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/187.GettyImages-494745648.png 568 132 825 446
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/64.lead_720_405.png 436 65 577 227
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/197.1160845996.png 700 540 810 675
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/186.trump-860x430.png 331 60 560 350
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/119.Donald_Trump_Square.png 306 260 1021 1187
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/183.12-photos-of-trump-boarding-air-force-one-on-a-ve-2-7060-1523024126-4_dblbig.png 268 132 434 338
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/231.BJ0Ncf7qNak-1.png 305 49 476 252
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/89.donald-trump-press-conference.png 860 265 1436 1004
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/310.trump_mobile_top.png 438 0 668 258
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/114.4666946f-8564-479f-bd0f-fde0c8a704f5.png 262 41 472 326
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/28.donaldtrump0508b.png 845 46 1012 252
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/22.donald-trumpdoj.png 1879 537 3228 2328
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/117.Donald-Trump-big-mouth-img.png 503 86 1015 760
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/288.U.S.-President-Donald-Trump.png 168 68 371 321
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/211.Donald_Trump_bio.png 581 11 713 186
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/61.el-paso-shooting-memorial.png 1001 1263 1056 1321
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/264.trump-wheeler-900_win-mcnamee-getty.png 196 70 343 278
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/262.merlin_156659286_3c093201-8111-4c10-8a42-aefac506db82-articleLarge.png 267 27 438 248
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/336._103202262_048903771-1.png 373 34 495 187
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/230.61NjF20zlCL._SX425_.png 147 130 276 277
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/34.lead_720_405.png 377 0 576 250
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/85.donald-trump-2017-ap_17018050269414.png 1728 320 2902 1790
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/94.cc623babb6934f788bd0e49b10f0bdbe_18.png 161 0 239 90
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/177.trump.png 208 52 369 257
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/54.donald-trump-gettyimages-1165170072-1564525626.png 111 13 275 214
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/330.og_image.png 719 100 825 229
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/317.Gopnik-Trudeau.png 361 40 455 154
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/49.donald-trump.png 875 203 1668 1269
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/313.Donald-Trump-5.png 2075 360 3193 1760
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/238.donald_trump_jr.png 783 128 995 401
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/215.The%252520Real%252520Story%252520Of%252520Donald%252520Trump%252520Jr.-03.png 607 373 1210 1147
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/13.190801141718-01-donald-trump-july-30-2019-large-169.png 160 0 333 193
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/279.adae3cac117448168587afebc4b0c119_18.png 238 45 379 225
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/193.donaldtrumpmexicopaper.png 694 140 918 445
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/116.uploads%252Fcard%252Fimage%252F995249%252Ff10074f1-b606-4926-ab9a-0ca752e36aa8.png 390 57 502 190
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/224.2657.png 47 16 276 314
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/83.TrumpFlag051119.png 348 109 491 279
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/29.1146754182.png 244 85 593 536
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/352.trump-december-15-ap-img.png 750 101 1075 532
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/222.john-mccain-donald-trump.png 294 253 957 1153
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/194.220px-Vladimir_Putin_and_Donald_Trump_at_the_2017_G-20_Hamburg_Summit_%284%29.png 105 19 175 94
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/120.donald-trump-angry.png 906 185 1305 706
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/91.donald-trump-rose-garden.png 443 32 590 214
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/240.6BSKJ3EJDYI6RHKZ3TGCYDFLZ4.png 600 98 918 499
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/346.donaldtrumpcnn2.png 183 0 287 120
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/347.Madonna-sa-proposition-indecente-pour-contrer-Donald-Trump.png 198 47 386 286
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/111.9ef6bfe2eeb552625259704325e35482b3bdff9f.png 250 75 486 367
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/285.Donald-Trump-Melania-Trump-1133042.png 338 11 471 173
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/292.11305482-3x2-700x467.png 256 126 366 261
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/326.5d3dd098240000cd3d936c07.png 57 0 129 76
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/258.donald-trump-bankruptcy.png 546 48 789 356
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/265.GettyImages-1134207225.png 340 33 434 145
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/30.715f4b0a-134e-4208-9852-04ca03395e19-AP_Election_2020_Trump_1.png 1367 137 1771 681
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/20.GettyImages-1157815364-300x300-1564526376.png 102 111 214 238
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/254.trumpandflag.png 307 14 503 259
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/154.5e6d759bde1e4b02897fd9b6e0202ef9.png 65 23 230 233
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/95.donald_trump_photo_michael_stewartwireimage_gettyimages_169093538_croppedjpg.png 50 30 251 281
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/171.Donald_Trump_8566730507_2.png 436 105 588 293
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/201.1154845718.png 355 0 729 495
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/332.donald-trump.png 584 96 953 666
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/37.s112571617.png 220 0 299 86
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/243.TRUMP-ANGRY-24-01-19.png 326 36 512 269
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/247.Law-and-Order-Smear-E-Jean-Carroll-Trump-Jr.png 460 71 634 273
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/204.getty-trump-800x560.png 66 0 406 340
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/190.acosta.png 348 23 560 295
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/200.Trump.png 252 58 474 325
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/253.donald-trump-6.png 217 29 372 212
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/184.61b942beb1f45622843d0c687b31.png 138 30 229 135
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/73.Donald-Trump-LGBT-support-1024x683.png 334 47 576 329
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/273.trump-k-stew.png 1125 118 1512 639
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/15.104466932-PE_Color.240x240.png 65 26 176 156
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/319.methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F64abc798-84e8-11e9-bfd1-5bcc3def9896.png 1359 452 1820 1071
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/293.1319COV_LLS.nocrop.w710.h2147483647.png 302 59 412 191
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/173.06-donald-trump-michael-jackson.w700.h700.png 399 141 618 404
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/203.donald_trump_and_theresa_may_0_xvckl3.png 618 106 739 264
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/93.GettyImages-831968068.0.0.0.png 665 57 1047 520
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/218.ohtl39-trump.png 233 26 392 226
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/126.moby-donald-trump.png 1769 210 2640 1335
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/344.maxresdefault.png 772 78 1124 538
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/229.MV5BYWJmZmE1YWItYjBjYi00ODU4LTg2MDUtOTQyNWY2NjFlOGM5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY317_CR2,0,214,317_AL_.png 30 33 203 236
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/329.szDtKS0UpnVoU22q.png 70 32 219 220
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/335.PRC_77782436.png 167 98 266 225
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/3.trump-condemn-hatred-shootings-racism.png 491 32 684 287
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/43.donald-trump.png 328 76 541 402
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/42.PRI_78086525.png 216 0 363 169
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/156.191094-049-EF255FCD.png 159 25 297 197
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/131.donald-trump1.png 700 197 1418 1072
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/277.Trump-Kissing.png 116 81 469 532
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/78.trump-1555096254.png 173 33 314 203
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/242.e7b.png 245 178 526 549
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/8.president-donald-trump-talks-to-journalists-after-returning-news-photo-1165170041-1564947888.png 248 1 337 111
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/68.trump-10-rt-er-190708_hpMain_4x3_992.png 348 82 669 466
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/101.image.png 218 33 438 316
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/251.Levin-Ferguson_FOX.png 191 17 317 174
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/150.donald-trump.png 1214 338 1829 1116
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/348.29906170001_5848187258001_5848171645001-vs.png 322 72 481 243
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/353.donald-trump.png
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/256.GettyImages-1155189859.png 467 35 627 233
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/39.donald-trump.png 1209 208 1764 988
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/27.WireAP_807c62712c8440c0a76c37addc6c7a18_16x9_608.png 234 80 307 161
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/341.1562720404-25.png 401 163 629 472
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/136.large_cSmpMaqlwDQ8k1-YCsfnDaOtfjYryb-LUxITkZ20pPw.png 608 78 803 327
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/227.trump.png 216 46 377 238
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/272.donald-trump-air-force-one-seal.png 450 26 610 218
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/148.president-donald-trump-and-first-lady-melania-trump-sit-as-news-photo-1129059998-1552053671.png 326 8 451 162
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/25.skynews-trump-president-golf_4734995.png 358 0 542 214
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/191.SABC-News-Donald-Trump-R.png 131 24 254 164
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/250.TrumpMelania2.png 147 68 305 254
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/321.190709-donald-trump-gtty-773.png 3595 335 4233 1177
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/9.Donald_Trump_official_portrait.png 681 614 1500 1629
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/232.B99450252Z.1_20161008143140_000_GJ71623MR.1-0.png 185 39 351 240
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/82.BHTTGPCPBMI6TCFB5U2G6DWJJ4.png 563 181 871 597
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/140.JohnBash-e1564939696602.png 434 44 575 221
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/97.Donald-Trump-Government-Shutdown-ap-img.png 504 84 854 546
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/4.donald-trump-aug-2-2019.png 271 0 420 168
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/302.105659860-1546607252918rtx6kr8e.png 297 30 452 211
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/282.donald-trump-e1552230497254.png 299 0 431 146
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/165.Donald-Trump.png 752 218 1414 1099
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/107.5d446fe1260000b00f04629c.png 113 0 186 80
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/298.gettyimages-1062372714-1562859555.png 54 29 122 106
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/233.Mr_Donald_Trump_New_Hampshire_Town_Hall_on_August_19th_2015_at_Pinkerton_Academy_Derry_NH_by_Michael_Vadon_02.png 633 144 776 319
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/328.Donald-Trump-and-populist-reshaping-of-reference.png 221 128 498 487
+/Users/pietraferreira/Faces_Dataset/aligned/Donald Trump/354.190708160057-03-trump-environmental-large-169.png 238 0 332 111
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/77.rexfeatures_6073981r-e1559250503284.png 178 71 301 221
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/197.s-l600.png 620 4 867 325
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/27.hillary-clinton.png 154 23 326 230
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/179.hillaryclinton0911a.png 335 56 569 346
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/120.screen-shot-2017-09-26-at-16-15-07.png 316 59 541 338
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/336.rs_1024x759-170914135246-1024-hillary-clinton-kelly-clarkson.png 135 63 403 402
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/168.Hillary-Clinton-makes-surprise-appearance-at-Tribeca-premiere-of-Protectors.png 252 77 524 414
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/107.05clinton1-articleLarge.png 361 83 458 198
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/32.1*pXh1-ULqIK46sA-MrUsCjg.png 77 79 252 292
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/332.clinton-epstein-1024x555.png 663 96 816 299
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/180.hillaryClintonSmiling16_large.png 240 23 414 240
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/7.694940094001_5986838290001_5986834971001-vs.png 340 70 617 425
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/222.hillaryclinton-62215-1435142821.png 494 226 954 792
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/267.hillary-clinton-concord-nh-2016.png 468 34 668 289
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/111.98477.png 530 182 991 794
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/312.1w6ikl.png 209 29 458 356
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/324.hillary-clinton-video-game-violence-donald-trump.png 658 68 892 381
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/239.1*D8kWZdDVO7h1CIvB5bVquA.png 58 31 183 169
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/70.gettyimages-491033854.png 1155 312 1657 1028
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/333.920x920.png 240 89 502 458
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/114.517920636.png 468 158 711 507
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/286.teresa_2-1.png 1804 268 2719 1464
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/36.hillary-clinton2.png 537 287 1478 1393
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/329.lead_720_405.png 267 2 395 157
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/141.920x920.png 476 76 683 341
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/279.methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fad738b12-a44f-11e7-afbf-91c225a59917.png 356 0 600 329
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/258.image.png 314 103 565 426
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/47.181024093652-01-hillary-clinton-file-exlarge-169.png 180 13 434 327
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/274.181783703.png 2732 474 4521 2813
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/300.XMPdJZJTOqgq6gPMR1Hg_thumb_688.png 46 24 201 210
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/245.skynews-donald-trump-hillary_4599108.png 327 53 482 245
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/200.gettyimages-613698100.png 240 69 509 431
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/315.hillary-clinton-fundraising.png 476 50 707 333
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/326.636525652535193507-A02-JUMP-HILLARY-MCCAIN-20091349.png 1385 144 2080 1067
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/137.hillary-crying-reuters-640x480.png 157 75 434 429
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/249.hillary%20clinton%20twitter.png 1017 150 1797 1201
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/183.hillaryclinton-fun-facts.png 247 15 387 188
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/339.2small2fail2.png 183 47 392 310
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/217.190423-hillary-clinton-cs-405p_7067fe4cc932c6a458f82d4f7f4fac2f.nbcnews-fp-760-360.png 207 18 405 268
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/138.hillary-clinton-9251306-1-raw.png 473 116 727 436
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/147.1000x-1.png 523 114 697 340
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/302.020718-hillary-clinton-lead.png 147 154 448 548
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/265.hillary-clinton-laughing.png 285 0 663 498
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/139.59c15b7038d20d21008b8128-750-563.png 252 115 497 396
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/198.81I3tFEnN3L.png 455 852 1083 1732
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/132.maxresdefault.png 584 96 806 379
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/259.hillaryclinton-atdartmouth.png 273 39 389 182
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/142.hillary-clinton-1.png 272 76 526 378
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/209.President_Obama_and_Hillary_Clinton-Charlotte_Convention_Center-Tile_Image.png 254 134 408 313
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/116.hillaryclinton.png 312 136 684 607
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/105.800.png 256 63 356 186
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/173.Hillary-Clinton-720x480.png 319 22 489 228
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/255.gettyimages-620931330.png 257 92 355 204
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/118.hillary-clinton-was-more-dangerous-than-donald-trump-susan-sarandon.png 192 64 388 301
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/18.RXH4DGGGOQI6RGY4VEHR3KXDBE.png 1841 632 3208 2291
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/176.300022-200px.png 30 41 166 208
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/86.e13fa84a-be11-47f3-9b06-c49603a6608a.png 534 126 806 473
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/16.http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F190716065029-hillary-clinton-official-portrait.png 158 58 257 178
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/235.17-clinton.w700.h700.png 209 88 560 507
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/346.5bb9387f200000070201eea9.png 198 52 338 215
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/146.dont-pub-cornel-west-says-civil-rights-leaders-supporting-hillary-clinton-have-lost-their-way-1456665290.png 791 109 1168 599
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/157.Hillary_Clinton_DNC_July_2016-1.png 356 76 478 219
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/165.hillary-clinton-aug-2016-billboard-1548.png 161 24 329 247
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/128.920x920.png 349 75 637 508
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/52.200px-Hillary_Clinton_Testimony_to_House_Select_Committee_on_Benghazi_%281%29.png 39 8 149 131
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/126.hillary-clinton1.png 263 81 583 479
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/92.0913-hillary-clinton.png 1175 188 1941 1166
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/91.190128-hillary-clinton-ew-1008a_dbec3b644246dc03e4500dcc3157d2dd.fit-760w.png 336 35 463 197
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/242.hillary_clinton002.png 1424 401 2343 1600
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/362.1546597507933.png 1095 131 1364 466
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/82._104968398_050964970-1.png 180 50 363 283
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/158.hillaryclinton_1_5.png 349 51 545 292
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/74.052617wellesleycc12.png 231 89 475 408
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/79.maxresdefault.png 472 154 782 559
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/199.190504-bill-clinton.png 435 86 528 199
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/93.104388716-RTX33JRB.530x298.png 187 0 306 138
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/69.gettyimages-491494078.png 675 807 2233 2764
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/238.05-07-hillary-clinton.png 1104 420 1667 1093
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/283.1200x525.png 500 43 668 248
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/188.h23.png 257 47 470 319
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/123.clinton_hillaryr.png 86 54 271 289
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/164.image-20160920-11131-gnrl1d.png 177 323 585 833
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/102.gettyimages-1142272662_copy.png 378 27 539 215
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/136.190403_gma_clinton_hpMain_16x9_608.png 265 22 406 213
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/174.hillary-clinton.png 347 39 550 296
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/151.https%3A%2F%2Fblogs-images.forbes.com%2Fjamesconca%2Ffiles%2F2018%2F12%2FChuck_Grassley_official_photo_2017.png 210 85 658 691
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/12.hillary-clinton-post-election.png 293 44 627 488
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/24.1068426677.png 468 59 731 406
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/226.hbz-hillary-clinton-1017-gettyimages-863178830-1509039677.png 171 64 333 271
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/155.220px-Hillary_Clinton_April_2015_%281%29.png 62 0 156 111
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/314.170px-Hillary_Clinton_1992.png 28 32 148 185
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/257.920x920.png 359 160 502 338
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/62.Britain_Clinton_70798.png 332 89 533 342
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/323.9054670-3x2-700x467.png 135 94 290 292
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/38.2878.png 565 177 772 437
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/171.636300654884417413-hillary.png 85 35 371 401
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/37.3f637285-b6ea-4531-b179-5fa3ccd527c5-large16x9_AP18325044851726.png 420 139 654 446
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/359.170502-hillary-clinton-mn-1415_2506b293bc3fdc8eb1d1869deccc40aa.nbcnews-fp-320-240.png 132 15 222 121
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/254.PHOTO-Hillary-Clintons-resignation-letter-to-President-Obama.png 334 73 594 438
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/205.gettyimages-1147229851.png 841 39 1081 328
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/335.Hillary-Clinton.png 46 12 295 332
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/327.HillaryClinton.png 267 17 379 151
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/45.HillaryClinton-58b892c15f9b58af5c2e4e41.png 281 68 529 382
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/6.170913_abc_view_clinton_election_loss_16x9_992.png 346 79 571 368
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/8.Election_2020_Hillary_Clinton_23161.png 266 48 586 477
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/260.h-clinton-669_90547683-390x285.png 211 73 288 162
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/313.150904061405-hillary-clinton-china-1995-super-tease.png 457 109 690 439
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/343.donaldtrump-0.png 878 318 1297 853
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/207.hillary-clinton-86.png 113 91 383 445
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/166.9755108-3x2-700x467.png 361 10 475 152
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/83.no-fee-barretstown-25th-anni-mx-2-390x285.png 196 42 264 115
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/311.17-hillary-clinton-harlem.w710.h473.2x.png 553 94 816 424
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/248.hillary-clinton-pokemon-go.0.0.png 760 123 950 380
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/112.hillary-clinton-concession.png 338 158 634 545
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/227.1992-e-1508789939.png 124 99 313 332
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/106.hrc-2017-headshot.png 610 177 866 484
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/73.HillaryClinton.png 1763 490 3272 2530
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/328.Hillary-Clinton-got-a-lump-of-coal-in-her-stocking.png 315 0 634 398
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/231.2016-10-9_hillary_clinton.png 372 82 490 272
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/358.colbert-clinton-ho-mo-20180922_hpMain_4x3_992.png 337 104 562 388
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/21.0927-hillary-clinton-makeup.png 1256 273 1807 983
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/299.Hillary_Clinton_Philadelphia_2016_%28cropped%29.png 19 70 240 336
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/153.ED-AY090_PennSt_GR_20181109172542.png 688 361 906 636
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/210.154283896042615655_812x.png 465 31 669 276
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/15._105894250_mediaitem105894249.png 209 64 368 251
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/11.MV5BNmQ1OTJhMzItNWIzOC00ZjdlLWEwNDgtODRiYjczNTkyZjc5XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY317_CR22,0,214,317_AL_.png 35 24 214 249
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/318.cf2b744b-f0c4-434a-ad78-bdd0c27a37b3.png 237 37 411 253
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/253.merlin_141221532_01cc9170-4476-4f25-863e-b4e3db15ccdc-articleLarge.png 278 19 391 158
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/355.3267.png 117 39 289 273
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/221.hillary.png 1016 219 1430 747
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/78.clinton-1400x788.png 610 164 943 565
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/129.Hillary-Clinton-1122114.png 217 35 408 267
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/353.hillary-clinton-river.png 1454 137 1832 641
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/234.hillary_clinton_along_with_her_daughter_chelsea_clinton_-getty-h_2019_0.png 316 194 453 344
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/348.ftnclinton10920-1.png 707 172 1138 691
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/240.hillary_clinton_feature.png 316 52 516 296
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/270.465554386.png 917 249 1273 745
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/56.comment-dyer-Hillary-Clinton-does-not-seem-to-realise-that-Donald-Trump-and-people-like-him-are-not-the-cause-of-populism-just-the-beneficaries-of-it.png 312 85 529 361
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/1.HillaryClinton_2326613b.png 209 41 389 262
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/224.3051.png 101 5 198 122
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/159.Clinton_PlannedParenthood_rtr_img.png 623 122 936 564
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/208.Romanes_Clinton_1.png 431 61 623 305
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/81.0913-hillary-clinton.png 1175 188 1941 1166
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/55.clintonhillary_101916gn_lead.png 229 27 357 187
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/19.17-hillary-clinton.w700.h700.png 235 96 483 415
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/4.hillary-clinton-9251306-2-402.png 49 39 217 245
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/340.https%3A%2F%2Fblogs-images.forbes.com%2Fclareoconnor%2Ffiles%2F2016%2F11%2FHillary-Clinton.png 364 79 649 436
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/100.hillary_clinton_da_header_3-2.png 700 141 914 413
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/282.0927_hillary_clinton_shimmy_cog-1000x688.png 380 97 600 357
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/295.6a00d834515c5469e201b7c77c51c5970b.png 686 112 1783 1506
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/178.GettyImages_1047920062.0.png 332 161 710 646
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/10.hillary-e1564675500164.png 289 51 471 285
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/337.hillary-clinton-what-happened.png 496 115 711 388
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/351.m7twagwiyal2hiozu768.png 413 52 683 391
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/131.merlin_153432549_459e1c71-5154-4cd6-8e17-c558424d03a3-articleLarge.png 381 55 483 186
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/193.skynews-hillary-clinton-us_4193350.png 227 59 426 303
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/192.GettyImages-513512600-56db0c4c5f9b5854a9e52907.png 322 50 519 317
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/236.Canada_Clintons_81978.png 339 31 513 240
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/273.why-hell-hillary-clinton-comparing-herself-wonder-woman.png 243 52 542 433
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/134.Hillary-Death-Stare.png 233 90 570 501
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/298.61144-hillary-clinton-getty-images-mike-coppola-sta.1200w.tn.png 582 55 809 352
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/104.image-1402511-860_poster_16x9-dqsx-1402511.png 252 44 507 369
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/189.conv18_randi-hillary_600-1000x582.png 465 61 656 293
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/252.ap16235567268050.png 2472 687 3703 2179
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/63.hillary-clinton.png 245 30 388 205
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/194.hillary-clinton.png 255 72 522 413
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/247.MW-DX468_arends_ZH_20151023161719.png 210 138 411 385
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/94.QuenHillary.png 296 56 556 385
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/250.0505_sun_Clintons01_t653.png 200 133 295 242
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/232.09012016_Hillary_Clinton.png 536 189 723 409
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/85.hillary-clinton-robot-overlord.png 438 160 606 389
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/89.agrunwald_hrc_09_custom-4718ec1c89f4d70ce7fbb20784711be64f1e6772-s800-c85.png 301 118 525 408
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/163.Hillary-Clinton-659480.png 165 72 418 392
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/34.hillary-clinton-lead-1551898212.png 110 74 261 256
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/71.hillary-clinton-2018-52f91cd1d428bcbe.png 214 97 412 355
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/72.920x920.png 316 121 594 480
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/213.GettyImages-539527944-57fea06f3df78cbc28607b90.png 58 25 169 150
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/160.hillary-clintons-team-repeatedly-touts-nra-tweet-defending-bernie-sanders-1024x768.png 260 110 561 521
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/246.comey-clinton-emails-e1523850032247.png 106 0 286 222
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/26.Hillary_Clinton-US_Secretary_of_State-Istanbul-Tile_Image.png 198 80 393 321
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/80.190403_gma_clinton_hpMain_16x9_608.png 265 22 406 213
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/186.VHVND6UFBU7IZJCJBTSQQRBNVM.png 485 70 660 271
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/2.Hillary_Clinton_official_Secretary_of_State_portrait_crop.png 657 505 1397 1504
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/161.hxfz5pzzzzorzssiedj2.png 351 104 501 294
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/263.Hillary%20Clinton%20Emails.png 227 37 403 257
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/237.clinton.png 70 92 447 578
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/66.US-Presidential-nominee-Hillary-Clinton.png 124 0 399 330
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/233.hillary-clinton-speech-1474640124.png 190 47 306 182
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/277.APP-042018-Hillary-1.png 202 30 383 266
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/99.GettyImages-456024380.png 432 125 659 442
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/220.c9b6dd0f-8f26-417e-8da7-67991e727696-AP_AXX_RODHAM_PARDON_PARDON_SESSIONS.png 161 43 329 258
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/43.0811-hillary-clinton-economic-speech-01.png 589 266 1121 916
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/334.hillary-clinton-london.png 437 63 656 352
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/49.b419ff31-306c-405a-bcc9-cffffb3d2e30-large16x9_AP18169684652725.png 367 42 662 435
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/108.31de7a8d7542275f373d1d8ad629d1d33268b689.png 126 120 448 541
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/59.31de7a8d7542275f373d1d8ad629d1d33268b689.png 126 120 448 541
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/347.Obama-and-Hillary-Clinton.png 459 278 635 506
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/287.hillary-clinton.png 502 57 716 305
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/185.gettyimages-1146608648.png 858 172 1338 792
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/330.BN-XB299_STREET_GR_20180118113708.png 614 245 838 551
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/96.6107.png 68 5 180 137
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/304.3724216419_6aeebc586e_o.png 740 218 1072 632
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/25.694940094001_6042644438001_6042654819001-vs.png 317 41 523 296
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/275.hillary-clinton.png 260 92 563 462
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/206.23346561-standard.png 254 42 520 369
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/64.9815ec8f-323a-49af-89a4-fefff2a05427.png 488 200 788 540
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/113.Screen%20Shot%202018-11-28%20at%203.14.34%20PM.png 67 25 235 255
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/202.rtr1lknj.png 467 333 1067 1078
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/301.Hillary-Clinton.png 302 43 555 345
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/201.GettyImages-873641134-feature-1524595802.png 889 131 1194 551
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/29.shutterstock_10229162y.png 691 213 1090 696
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/57.00-promo-image-hillary-clinton-hair.png 505 364 1288 1494
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/292.02-bill-hillary-clinton-upland.w1200.h630.png 270 36 396 187
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/119.gettyimages-538090288_0.png 945 412 1538 1183
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/256.clinton-reu-l.png 167 38 373 311
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/182.profile_hillary_clinton.png 904 66 1509 857
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/306.shutterstock_9919210a.png 173 38 298 187
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/342.Hunter_College_Commencement_Clinton_88382.png 128 33 363 302
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/48.uploads%252Fcard%252Fimage%252F914641%252Fe62af43f-4338-4f30-be87-3cb8ed5a6c6d.png 266 95 492 374
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/22.bill-clinton-hillary-clinton-nov-16-plane-getty-640x480.png 158 67 312 267
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/203.8abda59e-d659-4779-8daa-a0ff776b8283.png 237 47 403 252
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/262.Hillary_Clinton_Question_ap_img.png 520 177 868 647
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/20.hillary-clinton-smile.0.png 526 101 801 446
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/228.debate.png 160 127 316 323
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/87.27-hillary-clinton-scrunchie.w700.h700.png 308 187 545 475
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/144.104773661-Hillary_Clinton.png 576 222 920 714
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/212.screen_shot_2018-10-08_at_11.05.43_am.png 231 533 473 855
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/68.5759b86b9105842b008c7ebb-750-563.png 230 90 509 451
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/124.1524247471830.png 773 270 1240 886
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/51.AP_16315547928617-1000x667.png 441 347 548 482
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/307.59bc39ba9803c51d008b692c-750-563.png 233 67 499 420
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/268.hillary-clinton.png 382 150 611 435
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/319.061418clintons002.png 330 90 451 235
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/344.Hillary-Clinton-bio-convention-5.png 311 36 487 254
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/317.hillary-clinton-slide1.png 842 14 1180 497
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/216.lead_720_405.png 214 0 584 405
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/196.hillary-clinton-today-554x349.png 116 1 252 170
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/150.no-hillary-clinton-is-not-going-to-be-the-democratic-nominee-in-2020.png 145 117 484 550
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/140.MW-GU558_d77a72_ZH_20181030154227.png 330 44 542 300
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/349.h80.png 116 53 179 120
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/297.102829248-GettyImages-480584672.png 224 34 389 249
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/322.ba2f4348b808552da162c69fc3d86d05_md.png 124 2 385 352
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/65.rs_600x600-170913070055-600.hillary-clinton.91317.png 207 61 438 357
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/269.GettyImages-584448668.png 162 91 439 434
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/276.clinton911_Jmrae6B.png 266 336 538 649
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/145.170315_clinton.png 176 37 322 219
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/172.3000x1170-batch-5-5-1.png 1042 0 1732 898
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/305.GETTY_hillary%20clinton_011319_1547407554007.png_6620473_ver1.0_640_360.png 290 37 460 256
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/181.ap855375017351_wide-11efa85a6491307e6c12ec6a18aa2028397bb40b.png 449 33 891 594
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/218.bill-hillary-6-1-960x700.png 537 77 731 316
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/243.GettyImages-1126903255-820x550.png 254 133 418 356
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/280.Hillary-Clinton.png 345 90 781 614
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/281.1525741234-Hillary-Clinton-China-960x540.png 386 53 614 345
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/310.hillary-clinton-on-july-4-event-trump-shouldn-t-need-military-next-to-him-to-show-his-patriotism__184050_.png 476 39 581 182
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/101.hillary-clinton.png 228 47 430 306
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/211.hillary_clinton.png 509 12 722 271
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/109.AP_19149783307122-e1560037072971.png 313 177 728 714
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/204.Kavner-Hillary-Clinton-Debate-Performance.png 283 74 472 298
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/325.ZULMBQUZ4QI6NJ6KBG6AZEZPAQ.png 107 62 225 202
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/290.hillaryclinton-n1.png 248 60 422 263
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/149.hillary-clinton.png 365 46 606 336
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/58.hillary-clinton-hollywood-fundraising.png 440 87 686 398
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/169.the-salacious-ammo-even-donald-trump-wont-use-in-a-fight-against-the-clintons-1454096247.png 1096 72 1397 433
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/356.Alleged-NM-militia-commander-pleads-not-guilty-to-weapons-charges.png 80 0 503 461
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/271.hillary.png 243 119 536 495
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/223.hillary-clinton.png 451 168 581 327
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/103.h25.png 147 44 268 204
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/214.bill-and-hillary-clinton.png 439 108 560 257
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/31.lead_720_405.png 235 70 453 342
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/354.michelle-obama-21.png 710 191 971 539
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/345.david-lachapelle-hillary-clinton:-politicians-paradox.png 84 96 261 319
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/54.170727-hillary-clinton-mn-0715_1bea869c45b05993c0ee436ceba9a3db.fit-760w.png 310 79 557 416
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/23.160824-clinton-nation-sale-feature.png 1003 183 1681 1099
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/219.image.png 295 45 466 282
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/341.cover-hillary-jacinda.png 282 158 515 487
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/293.Hillary1.png 718 364 1554 1525
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/251.n_hardball_bloomberg_190305_1920x1080.video_250x168.png 68 0 174 126
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/215.1067723161.png 380 21 507 186
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/184.170210-hillary-clinton-ap-1160.png 947 175 1316 655
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/309.hillary-clinton.png 111 55 288 283
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/97.billhill.png 664 423 888 720
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/272.hillary-clinton-2-white-house-pete-souza-c.png 428 64 617 297
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/135.RTX1R6G4.png 1631 627 2567 1936
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/3.clintonhillary_04232019getty.png 199 51 446 369
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/33.HillaryClintonLaughing-58b201e75f9b58604651edfe.png 555 214 941 715
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/162.clinton-byrd.png 278 48 445 265
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/143.26fa4fe6-ed03-11e8-a6f8-3c15c472bc50-e1552126144509.png 310 23 468 226
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/177.HillaryClinton.png 264 58 431 262
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/303.694940094001_5970962083001_5970959091001-vs.png 335 58 534 291
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/187.hillary-clinton-time-firsts-2017-luisa-dorr.png 1136 366 1349 612
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/110.hbz-hillary-clinton-0917-gettyimages-855283348-1509039676.png 819 478 1200 979
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/350.20171021_blp507.png 533 299 714 531
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/28.hillary-clinton-betsy-ebeling-2.png 640 390 871 714
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/90.hillary-clinton1.png 926 121 1256 552
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/291.hillary-clinton-net-worth-facts.png 161 118 392 415
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/175.gettyimages-1150639935.png 115 69 202 168
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/17.h1.png 85 55 227 233
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/40.B3-CB637_SHRIER_P_20181017115945.png 263 34 508 349
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/195.Hillary-Clinton-Embassy.png 224 26 381 224
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/261.f-clinton-a-20190306-870x586.png 283 44 408 189
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/98.191093-049-8BA6FEE5.png 137 35 286 223
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/294.clintonhillary_111218getty_lead.png 312 39 471 247
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/170.rtx2pm33-e1476937825485.png 146 39 257 177
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/320.hillaryclinton.png 789 218 1338 936
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/308.gettyimages-1135333363_wide-998145e85ef3e6c9307ee63dc7fb81aa31b66b75-s700-c85.png 415 11 557 225
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/76.clinton.png 250 37 427 256
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/289.Hillary-Clinton-989574.png 179 0 339 190
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/14.Hillary-Clinton.png 373 21 638 336
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/278.f95d4f67-8bed-43d0-b9da-9748cc8cca0a.png 273 111 503 398
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/60.hive-contributor-profile-hillary-clinton.png 484 87 722 395
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/191.rs-hillary-clinton00-102aa60c-7d4f-4161-b822-b44ae93546cc.png 103 32 239 223
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/296.111068_0318-e1506111476403.png 260 22 405 210
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/5.hillary-clinton-most-hated.png 555 80 923 512
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/127.HIllaryClinton.png 277 44 469 265
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/331.ObamaClinton2-385x200.png 100 29 205 157
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/9.Hillary_Clinton_by_Gage_Skidmore_2.png 196 298 988 1320
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/13.trump-urge.png 523 160 1111 874
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/321.candidates-lgbt-rights.png 584 328 711 479
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/42.hillary-clinton.png 1769 325 2318 1068
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/75.hillary%20clinton.png 43 66 203 260
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/352.1*AuilqhPu7-vONlLQN7CdOw.png 786 382 1590 1408
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/288.Hillary-Clinton.png 225 40 322 150
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/360.1471282434-hillary-clinton-barack-obama-debate.png 248 155 379 308
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/148.694940094001_6033573143001_6033575830001-vs.png 303 35 566 374
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/125.8f2b363a-4413-11e6-90f5-85880927bf80.png 323 201 786 754
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/121.10366346-6752145-Hillary_Clinton_said_I_can_t_imagine_entering_the_2020_president-m-34_1551287541303.png 182 62 353 258
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/130.AP_182816348351071-768x512.png 334 98 561 384
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/357.bill_and_hillary_clinton_at_58th_inauguration_01-20-17_cropped.png 188 179 457 524
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/316.hillary-clinton.png 213 52 440 341
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/284.636106057377643838-Hillary-Clinton-main.png 254 52 481 304
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/230.hillary-clinton.png 221 29 478 365
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/285.AP_hillary_clinton_jt_151030_12x5_1600.png 977 91 1248 435
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/244.mqbyrtbwlf58md2nbnpq.png 296 91 426 236
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/46.hillary-clinton-2016.png 395 37 622 329
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/35.7.0.png 486 129 712 429
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/338.hbz-hrc-pantsuit-01-2016-gettyimages-610599942.png 198 28 303 153
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/84.Kibblesmith-Its-Time-for-Hillary-Clinton-to-Gracefully-Bow-Out-of-Public-Life.png 221 84 462 355
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/156.160510181822-hillary-clinton-senate-2000-restricted-super-169.png 436 100 656 394
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/225.873641016.png 318 257 542 529
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/95.hillary-clinton-robot-overlord.png 438 160 606 389
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/133.18559d46-1a7f-4c6b-8039-f0fe619ffaac-MJS_101716_Trump_15.png 1567 453 1956 941
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/44.596e5ce81a00003300dbf691.png 415 40 562 224
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/361.dem_2016_clinton1.png 996 487 1504 1159
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/167.putin_3.png 424 110 646 407
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/50.Hillary-Clinton-CNN-interview-10-9-18b.png 249 47 548 432
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/266.1521139482481.png 935 156 1295 615
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/190.26-michelle-kwan.w700.h700.png 295 100 560 485
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/39.AP18290534181666.png 739 195 1260 831
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/229.02-hillary-clinton-hair.png 1327 616 2233 1775
+/Users/pietraferreira/Faces_Dataset/aligned/Hillary Clinton/88.lead_720_405.png 277 121 417 276
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/188.theresa-may-810x540.png 287 74 435 256
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/201.theresa-may-1067397194.png 1048 59 1606 736
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/174.theresa-may-brexit-plan-unity.png 283 107 496 362
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/297.may%20visit005.png 256 14 372 156
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/262.Stormzy-Theresa-May-920x584.png 534 106 773 379
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/20._105082706_hi051474744.png 271 33 437 236
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/265.1000x-1.png 339 30 598 369
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/316.e055b1c8-22bd-4f9b-be72-7a18fb573688.png 340 62 463 211
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/264.Theresa-May.png 230 125 456 403
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/55.gavin-williamson.png 1005 218 1352 665
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/306.donald-trump_1948024a-a1fc-11e9-9ac0-125817c7848e.png 378 34 590 309
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/260.191092-049-8957FED5.png 169 28 273 148
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/242.48839539_303.png 307 28 439 195
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/18.GettyImages-1071806146-1160x777.png 501 108 831 528
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/247.Theresa-May-summit.png 148 71 293 266
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/155.c43064aab18e45b99e324a07da48fa63_18.png 389 32 507 166
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/131.GettyImages-1132404066.png 377 263 621 555
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/133.5d2314622400005117934db8.png 193 79 394 321
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/311.theresa-may-vogue-1-24nov14-pa_b-e1468455210301.png 157 19 497 435
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/288.Cassidy-TheresaMaysEmptyBrexitPromises.png 282 28 429 208
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/255.Theresa%20May%20resigns.png 228 105 406 312
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/200.2019-02-24T173055Z_850664509_RC1FB77A0A00_RTRMADP_3_BRITAIN-EU-MAY-TUSK-1024x676.png 620 127 706 237
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/154.gettyimages-1145817724.png 2086 488 2730 1332
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/105.RTS264BD-e1544797637489.png 99 40 226 181
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/320.BbbypYJc1xf_image.png 648 211 1034 701
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/102.GettyImages-1146938395.png 265 138 541 483
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/342.48764702_303.png 258 46 443 269
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/333.theresamay.png 384 127 618 424
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/24.theresa-may-brexit.png 2438 292 3503 1592
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/211.Theresa-May.png 276 85 602 487
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/318.1545.png 125 17 219 127
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/254.theresa-may-the-new-pm-is-a-grave-threat-to-freedom.png 240 44 493 381
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/347.skynews-theresa-may-prime-minister_4615982.png 341 83 493 234
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/226.theresa-may-number-10-wave.png 134 92 222 190
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/327.01-theresa-may-vogue-april-issue.png 1070 570 1421 1061
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/203.image.png 424 97 687 443
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/36.Nicola-Sturgeon-1162156.png 201 39 365 250
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/207.theresa-may-resigns-1884449.png 381 24 504 165
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/52.GettyImages-954540194-1160x773.png 401 128 672 487
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/355.theresa-may-19-brexit-e1555562227264.png 1225 707 1894 1528
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/279.0_Theresa-May-Holds-Final-Cabinet-Before-Stepping-Down-As-Prime-Minister.png 267 39 371 168
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/7.Theresa_May_official_portrait.png 1066 703 1897 1786
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/249.theresa-may-1.png 406 107 643 395
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/241.Theresa%20May%20Armed%20Forces%20Day%20message%20290619%20CREDIT%20DOWNING%20STREET.png 178 34 303 178
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/152.5d238e6a250000a81ae9cbb2.png 220 45 395 274
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/236.SAFRICA-BRITAIN-.png 223 0 319 107
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/232.Theresa-May.png 255 143 345 245
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/9.Brexit-news-Brexit-Party-Claire-Fox-UK-EU-no-deal-Boris-Johnson-pact-withdrawal-agreement-Farage-latest-1161605.png 317 69 527 318
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/148.105928935-1558590210301gettyimages-1145533143.png 2034 601 2799 1580
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/42.SEC_69073202.png 599 101 817 367
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/136.maxresdefault.png 507 56 779 371
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/33.2019-07-31_opi_52205694_I1.png 182 80 300 217
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/49.1000x-1.png 383 69 698 458
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/4.0_BRITAIN-SCOTLAND-POLITICS.png 305 89 448 258
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/162.RTX6LP2X.png 558 177 914 612
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/160.eight_col_075_szymanowicz-theresam190522_npt3e.png 180 69 345 268
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/290.1059832781.png 516 41 727 302
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/303.1533898085776-theresa-may-curtsy.png 857 289 957 429
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/238.619731-theresa-may-resignation-statement-may-24-2019.png 168 12 247 99
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/123.Theresa-May-at-UJIA.png 441 46 607 254
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/269.may.png 24 0 208 194
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/78.p05sfc0v.png 290 45 419 200
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/341.The-Rt-Hon-Theresa-May-MP-200x300.png 41 20 152 154
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/70.image.png 198 59 402 300
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/233.theres-no-evidence-theresa-may-actually-said-this-2-2854-1501229904-0_dblbig.png 236 52 374 219
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/21.JRVEYBGF6U7MTM6ZXQTQ2H5S6I.png 296 140 608 483
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/356.Theresa_May_National_Housing_Federation.png 453 160 600 330
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/191.WhatsApp-Image-2019-04-11-at-06.04.40-1250x641.png 543 114 715 324
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/256.5c06ab9ed78fe0645a3853e2-750-375.png 259 63 489 342
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/345.gettyimages-692132732-800x533.png 279 105 419 270
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/172.sub-buzz-27109-1468246457-5.png 330 67 402 147
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/166.THERESA_MAY_RESIGNATION_STATEMENT_REX_MIN__thumb.png 171 51 388 317
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/108.Lead3.png 980 172 1275 563
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/119.Theresa_May.png 118 62 271 240
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/51._106124172_c72d6cdb-75e6-416c-8c72-de1cce429de7.png 214 35 442 311
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/1.image.png 234 47 415 267
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/179.906cbac0-59c5-11e9-bbcc-84176f6dd1e7_image_hires_144712.png 402 93 614 349
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/202.maxresdefault.png 499 97 730 396
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/11._104477308_hi050776638.png 268 51 420 235
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/16.stream_img.png 232 67 384 240
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/324.1558748714-theresa-may-960x540.png 238 61 661 540
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/164.06cc8e2cba63433686dd65170699d627.png 310 80 567 421
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/289.gettyimages-1145817655-7559dd902e144367d430223cf198187dc4951dc9-s800-c85.png 346 246 463 385
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/197.may_3_crnycl.png 441 137 686 451
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/328.andy-serkis-1ee80c9.png 145 0 506 413
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/190.Theresa-May-OfTI-PA-43922693.png 174 52 405 326
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/186.theresa-may-small.png 64 43 160 151
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/183.0_SWNS_MAY_35.png 272 49 364 153
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/171.2019_0524-theresa-may-1200x800.png 576 229 884 616
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/83.tmresigns_skktgo.png 299 96 534 391
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/287.Theresa-May-blue-background-2-622x336.png 213 71 404 301
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/283.THeresa%20May.png 262 0 493 273
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/359.8180858.png 67 62 184 202
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/319.bf539a0a54c2ae7317a0f9d3ea4b646512bc6145fc4032c8465edb9478f40dfc.png 175 71 326 262
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/130.Theresa-May-church-March-2019-main_article_image.png 272 24 357 118
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/99.5ce7bb1c210000730c80ae7b.png 332 106 488 292
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/215.3500.png 8 18 128 157
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/135.gettyimages-1151372316-1024x577.png 294 11 647 431
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/219.621462-theresa-may-vogue-may-1996-p175-cindy-palmano.png 375 157 600 436
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/263.gettyimages-874420834.png 2963 327 3600 1155
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/218.Theresa%20May%20during%20a%20Salisbury%20visit%20040319%20CREDIT%20PA.png 175 47 333 232
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/302.may-pena.png 486 48 636 229
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/251.190604-trump-may-5.png 363 72 446 164
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/351.May-Corbyn-e1543944331407.png 78 146 345 474
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/77.1_Theresa-May.png 212 28 350 195
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/121.bw-theresa_may_sack.png 240 31 347 158
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/88.theresa-may-e1468256498627.png 136 12 208 93
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/336.1050089284.png 301 111 407 245
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/14.620625-nicola-sturgeon-and-theresa-may.png 193 120 357 323
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/239.kim.png 224 101 453 400
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/103.PA-37537640.png 268 22 385 161
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/182.theresa-may.png 275 97 511 398
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/80.1078148920.png 894 271 1861 1487
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/222.theresa-may-1440x960.png 695 398 770 481
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/149.PA-39819055.png 249 115 392 279
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/220.Theresa-May-2017-500x328.png 130 34 265 193
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/185.Theresa-May-and-number-10-downing-street-708610.png 58 70 249 302
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/304.may2001_0_qsp95a.png 490 88 704 335
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/5.Theresa-May-1987786.png 48 101 222 306
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/90.0_Britains-Prime-Minister-Theresa-May-Leaves-For-Weekly-Prime-Ministers-Questions.png 442 121 714 453
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/168.0_theresa-may.png 355 57 522 258
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/72.48857814_101.png 386 101 577 331
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/305.672z311_1547650531_TheresaMay.png 211 16 381 223
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/284.22-theresa-may.w700.h700.png 255 139 440 359
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/309.181210-theresa-may-brexit-cs-1045a_66ccce5622c9cc6c158128b6c5ba3979.fit-760w.png 308 88 473 285
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/213.may-theresa-image.png 57 31 267 287
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/137.trump-may-m.png 493 199 710 489
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/6.gettyimages-1094145608.png 855 562 2026 2040
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/313.SEI_71954994.png 251 18 358 143
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/268.Theresa-May11.png 1095 477 1695 1362
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/314.1247338.png 151 21 240 128
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/8.NINTCHDBPICT000492557918-6-e1559072694270.png 748 388 1903 1812
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/230.10292830-3x2-700x467.png 229 76 459 348
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/115.theresamay.png 416 139 852 696
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/27.NINTCHDBPICT000495501247.png 2145 867 3413 2513
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/176.EYAIMJBGS5ERPDWF27ZREUXXGM.png 419 92 624 340
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/296.theresa-may-sexist-tea-set-gift-crop-1559647058-1600x1067.png 423 226 627 491
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/193.Theresa-May-2-1024x683.png 426 72 585 266
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/28.borisjohnson0308.png 617 343 1088 968
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/75.190121122336-03-theresa-may-0121-exlarge-169.png 325 88 535 341
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/158._107088202_theresamay_epa.png 333 47 522 270
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/224.Theresa-May-smiling-main_article_image.png 160 24 376 291
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/120.NINTCHDBPICT000508219742-e1564178532727.png 1844 984 2325 1561
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/60.Knight-TheresaMayBrexit.png 293 259 421 408
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/192.GettyImages-859356310.png 403 130 627 412
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/46.7f491de8-7e04-11e9-8126-9d0e63452fe9_image_hires_204236.png 580 142 782 387
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/56.Theresa-May-REUTERS-17.10.18-e1545304915553.png 575 378 1186 1139
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/74.may-sturgeon_0.png 343 77 442 193
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/275.GettyImages-1145813476.png 466 297 543 383
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/354.AP_18135566477879-e1531237478327.png 185 28 300 168
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/252.6f1c9b215b4808f39d3e29b9f36b3b14.png 208 74 304 221
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/353.theresa-may-z.png 174 73 296 215
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/40.1784.png 38 7 146 141
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/317.10612968-3x2-700x467.png 392 124 609 404
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/339.Theresa-May.png 231 148 487 466
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/109.british-prime-minister-theresa-may-in-london-uk-22-may-2019-390x285.png 134 65 253 205
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/127.09_theresamay_r_w.png 184 105 402 390
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/326.1145337599.png 467 128 681 387
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/198.Theresa-May-1_0_0.png 231 78 415 291
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/330.image.png 186 30 437 331
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/300.0_JS164496018.png 259 11 334 94
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/180.052419mayresign3_960x540.png 231 110 412 325
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/58.gettyimages-1151857849.png 1362 722 2569 2223
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/68.Theresa_May.png 319 73 728 591
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/122.Theresa-May-Serious-Edited.png 440 153 705 479
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/17.25-1.png 54 65 256 305
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/281.methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fd34407a2-6421-11e9-a60b-90525fa8943d.png 258 81 431 285
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/34.GettyImages-1052392438.png 2516 1183 4130 3203
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/111.boris-1400x788.png 509 205 859 686
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/194.image.png 92 8 294 240
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/184.gettyimages-1145817724.png 2086 488 2730 1332
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/209.TheresaMay.png 80 52 277 290
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/114.theresa-may-t.png 430 129 625 364
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/141.190524105302-06-theresa-may-0524-exlarge-169.png 166 0 538 438
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/243._107088202_theresamay_epa.png 333 47 522 270
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/253.Theresa-May-use.png 190 101 419 384
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/128.british-prime-minister-theresa-may-leaves-number-10-downing-news-photo-873505580-1547549007.png 1957 1257 2383 1783
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/73.1782cc225ff7452ebc677dd0f72ab0ef_18.png 341 47 640 426
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/94.boris-johnson.png 893 457 1543 1282
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/41.Theresa-May-18-April-2018-800x450.png 416 114 627 373
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/69.Thersa-May-brexit-comp-205f.png 130 33 243 168
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/295.06d40de_5548578-01-06.png 179 160 345 350
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/206.GettyImages-1072085666.png 552 182 812 486
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/140.skynews-boris-johnson-boris_4715611.png 891 119 1294 649
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/79.4_Theresamay.png 208 66 420 323
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/15.Brexit-news-1160812.png 52 72 257 325
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/216.PRC_74608060.png 379 93 552 303
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/322.SILVERFISHMEDIA_gollum-theresa-may_101218_1120.png 634 140 884 425
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/259.TM-1400x788.png 239 0 783 730
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/274.theresa-may-dances.png 683 33 806 180
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/144.220px-Vladimir_Putin_and_Theresa_May_%282016-09-04%29_02.png 91 0 150 59
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/106.GettyImages-873773294.png 418 132 657 427
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/43.2342.png 56 23 181 176
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/157.stream_img.png 256 73 457 315
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/257.4-3-19-theresa-may.png 1381 89 1639 415
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/340.theresa-may-mp-conservative-party-maidenhead-17-october-1999-BMD7B6.png 500 162 879 647
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/267.180921093820-01-theresa-may-0921-large-169.png 160 6 279 147
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/217.Theresa-May-ABL-2016.png 734 243 1011 583
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/76.theresa-philip-may-800x480.png 380 179 472 280
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/329.theresa-may-downing-street_2.png 196 1 317 146
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/104.1267509.png 376 79 491 221
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/181.Theresa-May-Blue-Edited.png 640 114 969 524
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/266.tdy_news_kelly_may_190524_1920x1080.7604287705.png 298 63 445 233
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/175.TheresaMay-20170109011627709.png 283 36 431 215
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/189.theresa-may-brexit-plan-unity.png 283 107 496 362
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/208.theresa-may-dezeen-hero-852x568.png 309 118 619 511
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/237.0_British-Prime-Minister-Theresa-May-visits-church-Westion-Turville-United-Kingdom-26-May-2019.png 130 0 415 353
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/258.PM.png 417 96 586 303
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/86.1132744090.png 484 94 686 347
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/59.TheresaMay.png 783 243 1202 754
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/37.f-maydownfall-a-20190526-870x580.png 174 0 640 554
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/129.Untitled_design__7_.png 337 153 460 298
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/54.theresa-may-resigns-lg.png 202 118 435 392
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/26.Theresa-May.png 825 456 1554 1364
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/116.theresa-may-british-eu-flags.png 302 61 458 244
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/146.theresa-may-810x540.png 360 77 554 325
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/273.12141450-6911443-Theresa_May_addresses_staff_at_the_Home_Office_in_May_2010_after-a-1_1555004721357.png 187 56 388 315
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/301.bp_may_140119_14.png 259 92 464 338
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/334.gettyimages-1067382902.png 317 82 459 257
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/67.190524183337-theresa-may-10-downing-st-0524-exlarge-169.png 262 54 422 256
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/235.theresa-may-full-length-z.png 207 60 298 167
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/84.Theresa-May-shock-1024x580.png 270 32 506 298
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/352.theresa-may.png 191 116 444 414
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/10.gettyimages-970609754.png 2126 661 3348 2210
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/107.Theresa-May-20-June-2018-800x450.png 360 30 599 349
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/205.0_Britains-Prime-Minister-Theresa-May-Leaves-For-Weekly-Prime-Ministers-Questions.png 220 54 376 244
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/167.file-20180508-34006-1j9vdn8.png 279 46 426 222
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/93.methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F33962250-7e3c-11e9-9cce-178843284a7a.png 1586 213 1897 601
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/29.skynews-theresa-may-pm_4727041.png 485 23 618 186
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/177.Theresa%20May.png 201 65 310 196
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/271.4e2f93ad29c8410ca1bcbffd64ab9683_18.png 259 16 398 173
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/331.2.42009827.png 144 190 270 334
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/325.51x5PYTfwUL._SX331_BO1,204,203,200_.png 110 219 245 387
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/250.file-20190327-139364-1gfcznp.png 265 78 417 247
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/272.NINTCHDBPICT000501552849.png 975 328 1525 1028
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/278.lead_720_405.png 283 13 410 159
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/244.Theresa-May-final-days-REUTERS-e1563958885335-1200x898.png 447 211 725 557
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/170.Theresa-May-featured-image-682x920.png 157 213 489 613
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/81.theresa-may-resign-759222.png 129 76 349 354
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/118.theresa-may-CC.png 511 99 822 483
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/30.theresa-may.png 300 102 580 425
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/223.theresamayholiday.png 818 133 909 231
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/286.9103562.png 129 0 290 180
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/98.theresa-may.png 248 89 495 393
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/57.stevebaker0506.png 932 340 1498 1094
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/291.Theresa_May_Dec_2017.png 33 29 154 167
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/245.MW-FP052_may062_ZH_20170622174415.png 118 51 307 270
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/173.theresamay-kLeF--621x414@LiveMint.png 254 76 450 308
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/50.donald_trump_and_theresa_may_0_xvckl3.png 618 106 739 264
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/92.Prime-Minister-Theresa-May.png 296 47 602 434
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/234.105591761-1543212310890gettyimages-1065088496.png 562 258 1110 903
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/308.Theresa-May-1024x683.png 226 150 483 473
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/25.theresamay.png 314 166 649 585
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/35._107841464_theresamaypmqsafp.png 198 37 322 186
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/338.59a52394248849297a744358-750.png 285 101 574 469
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/44.file-20190524-187157-z8md3v.png 439 204 692 515
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/195.Theresa-May-Getty-704x454.png 251 76 473 355
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/228.5c48592f2600007001faedb0.png 200 97 409 361
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/32.may1104_1_i1imvq.png 472 40 670 276
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/89.theresa-may-brexit-brlede-2-web.png 691 95 927 383
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/132.image.png 424 97 687 443
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/117.2993.png 68 8 179 135
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/357.13904724-7066101-Theresa_May_broke_down_in_tears_as_she_announced_she_would_step_-a-17_1558709331396.png 533 137 696 339
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/310.image.png 175 27 322 210
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/126.image.png 603 105 783 359
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/214.997765930.png 290 53 640 597
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/350.105834719-1554441362905gettyimages-1131908203.png 2453 975 3369 2056
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/147.lead_720_405.png 150 81 409 405
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/142.13927244-7068493-image-a-33_1558729921528.png 232 99 416 325
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/270.theresa-may-john-dickerson-promo.png 303 87 587 440
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/277.Theresa-may-770x433.png 268 130 519 433
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/96.192383-004-0304A9F0.png 235 53 377 225
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/112.14-theresa-may.w700.h700.png 207 134 469 444
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/346.tmay.png 927 377 1357 882
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/113.SEI_69390906.png 341 238 623 592
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/293.GettyImages-946116166.png 326 223 493 427
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/151.TheresaMayhorizontal-20190201103151164.png 529 131 682 313
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/276.May_PA-37070115-20180619110152964.png 104 49 265 244
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/47.Theresa-May-1993564.png 204 76 385 297
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/19.img.png 547 119 827 485
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/348.John-Oliver-Theresa-May-920x591.png 605 32 761 217
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/282.Theresa-May-Vicarage.png 370 111 522 283
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/71.GettyImages-1045014740.png 453 88 547 190
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/82.Knight-TheresaMayBrexit.png 437 220 656 471
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/138.MV5BZGM2MzIyYWEtNmNiMC00YTlmLWI0ODctYmQ0MmMxNTU2ZDNlXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY317_CR195,0,214,317_AL_.png 28 23 168 196
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/231.Screen-Shot-2018-12-10-at-4.31.30-PM.png 230 67 511 412
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/210.ruddmay.png 382 141 533 359
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/100.skynews-theresa-may-belfast-4369072-1024x576.png 279 59 491 328
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/62.5d24c8fea17d6c0f884de382-750-375.png 241 38 440 315
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/212.Theresa-May-1.png 313 60 477 260
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/298.gettyimages-1131719450.png 1677 727 2291 1460
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/349.0_Theresa-May_13810JPG.png 374 44 478 172
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/139.merlin_145768281_e64e8afe-a05a-4c3b-b90a-d73908c0df56-articleLarge.png 107 248 239 400
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/344.maxresdefault.png 577 107 800 395
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/335.Alt-Theresa-May-en-la-cumbre-especial-de-la-UE-sobre-el-Brexit-EFE-EPA.png 96 73 257 271
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/12.GettyImages-1145813512.png 903 20 2034 1448
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/246.GettyImages-1093313452-1160x773.png 207 178 596 654
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/91.2019-03-11T225802Z_2112988049_RC133B295890_RTRMADP_3_BRITAIN-EU-MAY-STRASBOURG-1024x683.png 347 108 654 474
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/161.2_JS172813039.png 483 106 731 408
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/315.26628394718_05bbd21d1e_o-1250x775.png 533 133 647 268
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/125.07707068.png 217 46 361 225
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/53.FN-AH207_fn_the_P_20190524053444.png 298 66 434 229
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/61.theresa_may_uk_home_office_croppedjpg.png 66 54 219 245
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/63.methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F1322db98-7e38-11e9-9cce-178843284a7a.png 289 73 397 202
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/261.skynews-theresa-may-brexit_4606797.png 241 76 429 298
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/227.theresa-may-NHF-3__thumb.png 172 97 398 366
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/159.5bebff6cda27f806a646c534-750-375.png 277 35 500 322
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/110.theresamay141118-580x358.png 330 29 435 154
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/145.landgettyimages-1043405260.png 340 90 655 460
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/153.FF33BE9D-1B07-465B-8CF3-AD3231CFCCC2.png 1882 922 2218 1351
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/39.skynews-brexit-theresa-may_4614845.png 275 39 470 275
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/321.theresa-may.png 517 159 753 458
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/150.New_Theresa_May_SUO_TA94C2.png 544 53 729 274
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/2.Theresa-May.png 250 120 551 505
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/124.48572949_303.png 242 36 439 288
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/358.GettyImages-1152712840.png 357 281 526 484
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/38.0_MAIN-Boris-Johnson-less-popular-than-Theresa-May-and-John-Major.png 224 58 389 267
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/323.CHFNTXT42EI6TJNTGTZ634JVDY.png 603 131 940 559
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/66.200px-Tallinn_Digital_Summit._Handshake_Theresa_May_and_J%C3%BCri_Ratas_%2837357846742%29_%28cropped%29.png 29 48 179 225
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/229.theresa-may.png 207 110 491 413
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/187.bp_theresamay_120219_23.png 709 161 1152 712
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/3._e5l_DEG.png 360 178 777 702
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/87.0407e4c1ecc8440585ef1f454d731cf6_18.png 332 66 502 263
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/280.theresa-may.png 281 97 494 362
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/248.Theresa-May-with-UK-flag-800x450.png 485 0 769 247
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/65.skynews-theresa-may-brexit-vote_4607889.png 182 102 407 346
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/101.6dafd7ee-2485-46f9-9776-dd9deece5a01.png 309 22 623 424
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/312.ap_19144353634160_wide-e6b215fd2218b3e1e609c5728b3b5287530128c1-s800-c85.png 254 61 471 325
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/97.Theresa%20May%20retrospective%20illustrative-01.png 734 0 1054 360
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/48.602x338_cmsv2_e5d53cee-b42a-55a7-80e4-0da93d3029c5-3718136.png 204 29 378 238
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/156.33523810773_ce0415bc3d_o.png 146 60 283 230
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/178.180712_theresa_may.png 1080 579 1818 1501
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/332.theresa-may-375x195.png 125 13 228 141
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/225.angry-theresa-may-1024x580.png 280 83 474 314
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/307.stream_img.png 258 40 405 216
+/Users/pietraferreira/Faces_Dataset/aligned/Theresa May/163.may_3_crnycl.png 441 137 686 451

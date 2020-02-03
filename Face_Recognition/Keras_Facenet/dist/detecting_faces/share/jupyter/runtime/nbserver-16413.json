@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/Users/pietraferreira",
+  "password": false,
+  "pid": 16413,
+  "port": 8888,
+  "secure": false,
+  "token": "c1972d42934b2b913fc7cb66e57874c97ae49d0d1234a134",
+  "url": "http://localhost:8888/"
+}

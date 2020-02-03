@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/Users/pietraferreira/Desktop/Jupyter-Demo",
+  "password": false,
+  "pid": 11198,
+  "port": 8888,
+  "secure": false,
+  "token": "e48339564a54bd2c061e25c25268e46130f24760ed3d66f2",
+  "url": "http://localhost:8888/"
+}
